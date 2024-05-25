@@ -1,0 +1,1001 @@
+id,first_name,last_name,height,weight,birth_date,position,team,number,active,photo_url,latest_price,latest_price_updated,day_start_price,day_start_price_updated,last_modified
+184,David,Harris,"6'2"",250,"1984-01-21 00:00:00",LB,NULL,45,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+292,Brandon,Mebane,"6'1"",311,"1985-01-15 10:00:00",DT,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+430,Sam,Koch,"6'1"",222,"1982-08-13 00:00:00",P,BAL,4,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+549,Matt,Prater,"5'10"",201,"1984-08-10 04:00:00",K,DET,5,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+611,Joe,Flacco,"6'6"",245,"1985-01-16 00:00:00",QB,NYJ,5,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+722,Jason,Witten,"6'6"",263,"1982-05-06 00:00:00",TE,LV,82,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+732,Matt,Ryan,"6'4"",217,"1985-05-17 08:00:00",QB,ATL,2,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/732.png,15.26,"2022-07-02 01:55:00",15.26,"2022-07-02 00:00:00",NULL
+1214,Frostee,Rucker,"6'3"",280,"1983-09-14 00:00:00",DE,NULL,98,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+1410,Robbie,Gould,"6'0"",190,"1982-12-06 00:00:00",K,SF,9,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+1658,Greg,Olsen,"6'5"",255,"1985-03-11 00:00:00",TE,SEA,88,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.74,"2022-07-02 01:55:00",-9.74,"2022-07-02 00:00:00",NULL
+1694,Mason,Crosby,"6'1"",207,"1984-09-03 00:00:00",K,GB,2,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+2405,Chad,Henne,"6'3"",222,"1985-07-02 04:00:00",QB,KC,4,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+2593,Aaron,Rodgers,"6'2"",225,"1983-12-02 00:00:00",QB,GB,12,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/2593.png,21.51,"2022-07-02 01:55:00",21.51,"2022-07-02 00:00:00",NULL
+2760,Brandon,Carr,"6'0"",210,"1986-05-19 00:00:00",CB,DAL,39,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+2982,Stephen,Gostkowski,"6'1"",215,"1984-01-28 00:00:00",K,TEN,3,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+3061,Marcedes,Lewis,"6'6"",267,"1984-05-19 04:00:00",TE,GB,89,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.32,"2022-07-02 01:55:00",-5.32,"2022-07-02 00:00:00",NULL
+3100,Andy,Lee,"6'1"",185,"1982-08-11 00:00:00",P,ARI,4,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+3341,Calais,Campbell,"6'8"",300,"1986-09-01 00:00:00",DE,BAL,93,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+3617,Duane,Brown,"6'4"",315,"1985-08-30 00:00:00",OT,SEA,76,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+3807,Ben,Roethlisberger,"6'5"",240,"1982-03-02 00:00:00",QB,PIT,7,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/3807.png,-0.57,"2022-07-02 01:55:00",-0.57,"2022-07-02 00:00:00",NULL
+3843,C,Davis,NULL,NULL,NULL,NULL,NULL,39,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/3843.png,0,NULL,0,NULL,NULL
+3943,DeSean,Jackson,"5'10"",175,"1986-12-01 00:00:00",WR,PHI,10,1,https://s3-us-west-2.amazonaws.com/static.fan,-10.33,"2022-07-02 01:55:00",-10.33,"2022-07-02 00:00:00",NULL
+4314,Tom,Brady,"6'4"",225,"1977-08-03 00:00:00",QB,TB,12,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/4314.png,-1.1,"2022-07-02 01:55:00",-1.1,"2022-07-02 00:00:00",NULL
+4490,Johnathan,Joseph,"5'11"",186,"1984-04-16 00:00:00",CB,TEN,33,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+4633,Matt,Schaub,"6'6"",245,"1981-06-25 08:00:00",QB,ATL,8,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+4807,Adrian,Peterson,"6'1"",220,"1985-03-21 00:00:00",RB,DET,28,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.17,"2022-07-02 01:55:00",-5.17,"2022-07-02 00:00:00",NULL
+4895,Thomas,"Davis Sr.","6'1"",235,"1983-03-22 00:00:00",OLB,WAS,58,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+4932,Eli,Manning,"6'5"",218,"1981-01-03 00:00:00",QB,NULL,10,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+5099,Andrew,Whitworth,"6'7"",330,"1981-12-12 00:00:00",OT,LAR,77,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+5282,Josh,McCown,"6'4"",218,"1979-07-04 00:00:00",QB,PHI,14,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+5377,John,Denney,"6'5"",255,"1978-12-13 00:00:00",LS,NULL,92,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+5571,Larry,Fitzgerald,"6'3"",218,"1983-08-31 00:00:00",WR,ARI,11,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/5571.png,-0.470001,"2022-07-02 01:55:00",-0.470001,"2022-07-02 00:00:00",NULL
+5668,L.P.,Ladouceur,"6'5"",256,"1981-03-13 05:00:00",LS,DAL,91,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+5820,Frank,Gore,"5'9"",212,"1983-05-14 00:00:00",RB,NYJ,21,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.22,"2022-07-02 01:55:00",-5.22,"2022-07-02 00:00:00",NULL
+5834,Matt,Moore,"6'3"",219,"1984-08-09 00:00:00",QB,KC,8,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+6198,Darren,Sproles,"5'6"",185,"1983-06-20 04:00:00",RB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+6300,Don,Muhlbach,"6'4"",258,"1981-08-17 04:00:00",LS,DET,48,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+6739,Alex,Smith,"6'4"",213,"1984-05-07 00:00:00",QB,WAS,11,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+6767,Pierre,Garcon,"6'0"",210,"1986-08-08 00:00:00",WR,NULL,15,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+7175,Delanie,Walker,"6'1"",242,"1984-08-12 04:00:00",TE,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+7242,Drew,Brees,"6'0"",209,"1979-01-15 00:00:00",QB,NO,9,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/7242.png,18.36,"2022-07-02 01:55:00",18.36,"2022-07-02 00:00:00",NULL
+7243,Eric,Weddle,"5'11"",200,"1985-01-04 05:00:00",FS,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+7509,John,Sullivan,"6'3"",301,"1985-08-08 00:00:00",C,NULL,65,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+7651,Matthew,Slater,"6'0"",205,"1985-09-09 00:00:00",WR,NE,18,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+8003,Korey,Toomer,"6'2"",234,"1988-12-09 00:00:00",ILB,NULL,56,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+8243,Dustin,Colquitt,"6'3"",210,"1982-05-06 00:00:00",P,PIT,4,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+8244,Philip,Rivers,"6'5"",228,"1981-12-08 00:00:00",QB,IND,17,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/8244.png,6.73,"2022-07-02 01:55:00",6.73,"2022-07-02 00:00:00",NULL
+8283,Ryan,Fitzpatrick,"6'2"",228,"1982-11-24 00:00:00",QB,MIA,14,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/8283.png,11.33,"2022-07-02 01:55:00",11.33,"2022-07-02 00:00:00",NULL
+8353,Patrick,Chung,"5'11"",215,"1987-08-19 00:00:00",FS,NE,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+8355,Julian,Edelman,"5'10"",198,"1986-05-22 00:00:00",WR,NE,11,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/8355.png,10.61,"2022-07-02 01:55:00",10.61,"2022-07-02 00:00:00",NULL
+8358,Brian,Hoyer,"6'2"",216,"1985-10-13 00:00:00",QB,NE,2,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+8433,Kevin,Huber,"6'1"",210,"1985-07-16 00:00:00",P,CIN,10,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+8459,Andre,Smith,"6'4"",325,"1987-01-25 00:00:00",OT,BAL,76,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+8485,Alex,Mack,"6'4"",311,"1985-11-19 00:00:00",C,ATL,51,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+8504,Ramon,Foster,"6'6"",325,"1986-01-07 05:00:00",G,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+8534,Jared,Cook,"6'5"",254,"1987-04-07 08:00:00",TE,NO,87,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/8534.png,0.03,"2022-07-02 01:55:00",0.03,"2022-07-02 00:00:00",NULL
+8550,Jason,McCourty,"5'11"",195,"1987-08-13 00:00:00",CB,NE,30,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+8679,Britton,Colquitt,"6'3"",210,"1985-03-20 05:00:00",P,MIN,2,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+8723,Matt,Cassel,"6'4"",230,"1982-05-17 00:00:00",QB,NULL,8,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+8750,Ryan,Succop,"6'3"",218,"1986-09-19 00:00:00",K,TB,3,1,https://s3-us-west-2.amazonaws.com/static.fan,-8.6,"2022-07-02 01:55:00",-8.6,"2022-07-02 00:00:00",NULL
+8920,Jason,Peters,"6'4"",328,"1982-01-22 00:00:00",OT,PHI,71,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+9038,Matthew,Stafford,"6'3"",220,"1988-02-07 00:00:00",QB,DET,9,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/9038.png,9.05,"2022-07-02 01:55:00",9.05,"2022-07-02 00:00:00",NULL
+9162,J.J.,Jansen,"6'2"",235,"1986-01-20 10:00:00",LS,CAR,44,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+9196,Malcolm,Jenkins,"6'0"",204,"1987-12-20 00:00:00",SS,NO,27,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+9201,Thomas,Morstead,"6'4"",235,"1986-03-08 00:00:00",P,NO,6,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+9223,Demar,Dotson,"6'9"",315,"1985-10-11 00:00:00",OT,DEN,78,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+9828,Ricky,Jean-Francois,"6'3"",295,"1986-11-23 00:00:00",DT,NULL,97,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+9902,Chase,Daniel,"6'0"",229,"1986-10-07 00:00:00",QB,DET,4,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+9906,Danny,Amendola,"5'11"",185,"1985-11-02 00:00:00",WR,DET,80,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.49,"2022-07-02 01:55:00",-5.49,"2022-07-02 00:00:00",NULL
+10067,Brett,Kern,"6'2"",214,"1986-02-17 00:00:00",P,TEN,6,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+10333,Graham,Gano,"6'2"",202,"1987-04-09 00:00:00",K,NYG,5,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+10974,Rob,Gronkowski,"6'6"",268,"1989-05-14 00:00:00",TE,TB,87,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/10974.png,-0.18,"2022-07-02 01:55:00",-0.18,"2022-07-02 00:00:00",NULL
+10978,Devin,McCourty,"5'10"",195,"1987-08-13 00:00:00",SS,NE,32,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11008,Morgan,Cox,"6'4"",235,"1986-04-26 00:00:00",LS,BAL,46,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11021,Geno,Atkins,"6'1"",300,"1988-03-28 00:00:00",DT,CIN,97,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11023,Carlos,Dunlap,"6'6"",277,"1989-02-28 00:00:00",DE,CIN,96,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11043,Joe,Haden,"5'11"",195,"1989-04-14 00:00:00",CB,PIT,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11047,Colt,McCoy,"6'1"",212,"1986-09-05 00:00:00",QB,NYG,12,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11062,Maurkice,Pouncey,"6'4"",304,"1989-07-24 00:00:00",C,PIT,53,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11063,Emmanuel,Sanders,"5'11"",180,"1987-03-17 00:00:00",WR,NO,17,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/11063.png,14.3,"2022-07-02 01:55:00",14.3,"2022-07-02 00:00:00",NULL
+11105,Kareem,Jackson,"5'10"",183,"1988-04-10 00:00:00",SS,DEN,22,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11107,Sherrick,McManis,"5'11"",203,"1987-12-19 05:00:00",DB,CHI,27,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11120,Jon,Weeks,"5'10"",242,"1986-02-17 00:00:00",LS,HOU,46,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11132,Jerry,Hughes,"6'2"",254,"1988-08-13 00:00:00",DE,BUF,55,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+11151,Tyson,Alualu,"6'3"",304,"1987-05-12 00:00:00",DE,PIT,94,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11276,Sean,Lee,"6'2"",245,"1986-07-22 00:00:00",OLB,DAL,50,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11289,Sam,Young,"6'8"",302,"1987-06-24 00:00:00",OT,LV,70,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11302,Linval,Joseph,"6'4"",329,"1988-10-10 00:00:00",NT,LAC,95,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11311,Kurt,Coleman,"5'11"",208,"1988-04-01 00:00:00",FS,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11315,Brandon,Graham,"6'2"",265,"1988-04-03 00:00:00",DE,PHI,55,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11319,Austin,Howard,"6'7"",333,"1987-03-22 00:00:00",OT,NULL,78,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11382,Ndamukong,Suh,"6'4"",313,"1987-01-06 00:00:00",NT,TB,93,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11385,Bryan,Bulaga,"6'5"",314,"1989-03-21 00:00:00",OT,LAC,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+11414,Everson,Griffen,"6'3"",273,"1987-12-22 00:00:00",DE,DAL,97,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11422,Joe,"Webb III","6'4"",231,"1986-11-14 00:00:00",WR,DET,NULL,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11437,Corey,Peters,"6'3"",335,"1988-06-08 04:00:00",DE,ARI,98,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11488,Jimmy,Graham,"6'6"",259,"1986-11-24 00:00:00",TE,CHI,80,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.74,"2022-07-02 01:55:00",-9.74,"2022-07-02 00:00:00",NULL
+11493,Patrick,Robinson,"5'11"",191,"1987-09-07 08:00:00",CB,NO,21,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11514,Gerald,McCoy,"6'4"",300,"1988-02-25 00:00:00",DT,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11527,Sam,Bradford,"6'4"",236,"1987-11-08 00:00:00",QB,NULL,9,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11535,Michael,Hoomanawanui,"6'4"",264,"1988-07-04 00:00:00",TE,NULL,84,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11545,Rodger,"Saffold III","6'5"",325,"1988-06-06 00:00:00",G,TEN,76,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+11548,Darian,Stewart,"5'11"",214,"1988-08-04 08:00:00",FS,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11565,Andre,Roberts,"5'11"",195,"1988-01-09 00:00:00",WR,BUF,18,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+11579,Tramaine,"Brock Sr.","6'0"",188,"1988-08-20 00:00:00",CB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11585,Mike,Iupati,"6'5"",331,"1987-05-12 00:00:00",G,SEA,70,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11589,Chris,Maragos,"5'10"",200,"1987-01-06 00:00:00",FS,NULL,42,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11598,Kam,Chancellor,"6'3"",232,"1988-04-03 00:00:00",SS,NULL,31,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11604,Russell,Okung,"6'5"",310,"1988-10-07 00:00:00",OT,CAR,76,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+11611,Golden,Tate,"5'10"",197,"1988-08-02 00:00:00",WR,NYG,15,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/11611.png,20.79,"2022-07-02 01:55:00",20.79,"2022-07-02 00:00:00",NULL
+11612,Earl,"Thomas III","5'10"",202,"1989-05-07 00:00:00",FS,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11664,Richie,Incognito,"6'3"",325,"1983-07-05 00:00:00",G,LV,64,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11694,Nick,Folk,"6'1"",222,"1984-11-05 00:00:00",K,NE,6,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+11735,Mike,Nugent,"5'10"",190,"1982-03-02 00:00:00",K,ARI,2,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11767,Steve,McLendon,"6'3"",310,"1986-01-03 00:00:00",NT,NYJ,99,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+11932,LeSean,McCoy,"5'11"",210,"1988-07-12 00:00:00",RB,TB,25,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+11963,Nick,Sundberg,"6'1"",254,"1987-07-29 04:00:00",LS,WAS,57,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12109,Ted,"Ginn Jr.","5'11"",180,"1985-04-12 00:00:00",WR,CHI,19,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.98,"2022-07-02 01:55:00",-9.98,"2022-07-02 00:00:00",NULL
+12167,Reggie,Nelson,"5'11"",202,"1983-09-21 00:00:00",FS,NULL,27,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12247,Jason,Pierre-Paul,"6'5"",275,"1989-01-01 00:00:00",OLB,TB,90,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12308,Trent,Williams,"6'5"",320,"1988-07-19 00:00:00",OT,SF,71,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+12330,Clark,Harris,"6'5"",250,"1984-07-10 00:00:00",LS,CIN,46,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12383,Mike,Windt,"6'1"",252,"1985-05-29 00:00:00",LS,NULL,47,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12386,Marshawn,Lynch,"5'11"",215,"1986-04-22 00:00:00",RB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12450,Al,Woods,"6'4"",314,"1987-03-25 00:00:00",DT,JAX,97,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12554,Andrew,Sendejo,"6'1"",210,"1987-09-09 00:00:00",FS,CLE,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12562,Ramon,Humber,"5'11"",232,"1987-08-10 00:00:00",LB,NULL,50,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12594,Stephen,Hauschka,"6'4"",210,"1985-06-29 00:00:00",K,JAX,3,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12707,Jason,Kelce,"6'3"",295,"1987-11-05 00:00:00",C,PHI,62,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12708,Dion,Lewis,"5'7"",193,"1990-09-27 00:00:00",RB,NYG,33,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12741,Da'Norris,Searcy,"5'11"",223,"1988-11-16 00:00:00",SS,NULL,21,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12742,Kelvin,Sheppard,"6'2"",250,"1988-01-02 00:00:00",OLB,NULL,51,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12751,Charles,Clay,"6'3"",246,"1989-02-13 05:00:00",TE,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12764,Marcus,Cannon,"6'6"",335,"1988-05-06 00:00:00",OT,NE,61,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12777,Lee,Smith,"6'6"",265,"1987-11-21 00:00:00",TE,BUF,85,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+12778,Nate,Solder,"6'8"",325,"1988-04-12 04:00:00",OT,NYG,76,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12787,Nick,Bellore,"6'1"",250,"1989-05-12 00:00:00",FB,SEA,44,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12800,Bilal,Powell,"5'10"",204,"1988-10-27 00:00:00",RB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12806,Muhammad,Wilkerson,"6'4"",315,"1989-08-20 00:00:00",DE,NULL,96,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12815,Josh,Bynes,"6'1"",235,"1989-08-24 00:00:00",ILB,CIN,56,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12822,Pernell,McPhee,"6'3"",265,"1988-12-17 00:00:00",OLB,BAL,90,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12829,Jimmy,Smith,"6'2"",210,"1988-07-26 00:00:00",CB,BAL,22,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12830,Torrey,Smith,"6'1"",205,"1989-01-26 00:00:00",WR,NULL,11,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12831,Tyrod,Taylor,"6'1"",217,"1989-08-03 00:00:00",QB,LAC,5,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/12831.png,-0.0700001,"2022-07-02 01:55:00",-0.0700001,"2022-07-02 00:00:00",NULL
+12838,Clint,Boling,"6'5"",306,"1989-05-09 00:00:00",G,NULL,65,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12841,Andy,Dalton,"6'2"",220,"1987-10-29 00:00:00",QB,DAL,14,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12845,A.J.,Green,"6'4"",210,"1988-07-31 00:00:00",WR,CIN,18,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/12845.png,-0.32,"2022-07-02 01:55:00",-0.32,"2022-07-02 00:00:00",NULL
+12880,Jabaal,Sheard,"6'3"",268,"1989-05-10 00:00:00",DE,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12881,Buster,Skrine,"5'9"",187,"1989-04-26 00:00:00",CB,CHI,24,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12897,Marcus,Gilbert,"6'6"",330,"1988-02-15 00:00:00",OT,ARI,76,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12902,Cameron,Heyward,"6'5"",295,"1989-05-06 00:00:00",DT,PIT,97,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12912,Jurrell,Casey,"6'1"",305,"1989-12-05 00:00:00",DE,DEN,99,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+12955,J.J.,Watt,"6'5"",288,"1989-03-22 00:00:00",DE,HOU,99,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+12960,Anthony,Castonzo,"6'7"",307,"1988-08-09 00:00:00",OT,IND,74,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+12982,Blaine,Gabbert,"6'4"",235,"1989-10-15 08:00:00",QB,TB,11,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13016,Virgil,Green,"6'5"",255,"1988-08-03 00:00:00",TE,LAC,88,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.95,"2022-07-02 01:55:00",-9.95,"2022-07-02 00:00:00",NULL
+13018,Chris,"Harris Jr.","5'10"",199,"1989-06-18 00:00:00",CB,LAC,25,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13022,Von,Miller,"6'3"",250,"1989-03-26 00:00:00",OLB,DEN,58,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13029,Allen,Bailey,"6'3"",288,"1989-03-25 05:00:00",DE,ATL,93,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13036,Justin,Houston,"6'3"",270,"1989-01-12 00:00:00",DE,IND,50,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+13037,Rodney,Hudson,"6'2"",315,"1989-07-12 00:00:00",C,LV,61,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13063,Taiwan,Jones,"6'0"",195,"1988-07-26 00:00:00",RB,BUF,25,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13073,Stefen,Wisniewski,"6'3"",305,"1989-03-22 00:00:00",G,PIT,61,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13085,Marcus,Gilchrist,"5'10"",193,"1988-11-14 00:00:00",SS,BAL,29,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13091,Corey,Liuget,"6'2"",300,"1990-03-18 00:00:00",DT,HOU,NULL,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13109,Dan,Bailey,"6'0"",190,"1988-01-26 05:00:00",K,MIN,5,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+13117,Dwayne,Harris,"5'10"",215,"1987-09-16 00:00:00",WR,HOU,17,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13119,Chris,Jones,"6'0"",205,"1989-07-21 04:00:00",P,DAL,6,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13129,Tyron,Smith,"6'5"",320,"1990-12-12 00:00:00",OT,DAL,77,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13166,Ryan,Kerrigan,"6'4"",265,"1988-08-16 00:00:00",DE,WAS,91,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13181,Mario,Addison,"6'3"",260,"1987-09-06 00:00:00",OLB,BUF,97,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13227,Randall,Cobb,"5'10"",195,"1990-08-22 00:00:00",WR,HOU,18,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.89,"2022-07-02 01:55:00",-9.89,"2022-07-02 00:00:00",NULL
+13236,Davon,House,"6'0"",195,"1989-07-10 00:00:00",CB,NULL,31,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13275,Kyle,Rudolph,"6'6"",265,"1989-11-09 05:00:00",TE,MIN,82,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.44,"2022-07-02 01:55:00",-5.44,"2022-07-02 00:00:00",NULL
+13291,Julio,Jones,"6'3"",220,"1989-02-08 00:00:00",WR,ATL,11,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/13291.png,3.47,"2022-07-02 01:55:00",3.47,"2022-07-02 00:00:00",NULL
+13320,Cam,Newton,"6'5"",245,"1989-05-11 00:00:00",QB,NE,1,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/13320.png,15.14,"2022-07-02 01:55:00",15.14,"2022-07-02 00:00:00",NULL
+13337,Mark,"Ingram II","5'9"",215,"1989-12-21 00:00:00",RB,BAL,21,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/13337.png,-0.41,"2022-07-02 01:55:00",-0.41,"2022-07-02 00:00:00",NULL
+13338,Cameron,Jordan,"6'4"",287,"1989-07-10 00:00:00",DE,NO,94,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13355,Adrian,Clayborn,"6'3"",280,"1988-07-06 00:00:00",DE,CLE,94,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+13370,Luke,Stocker,"6'5"",253,"1988-07-01 00:00:00",TE,ATL,88,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.98,"2022-07-02 01:55:00",-9.98,"2022-07-02 00:00:00",NULL
+13388,Jake,McQuaide,"6'2"",235,"1987-12-07 05:00:00",LS,LAR,44,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13393,Robert,Quinn,"6'4"",257,"1990-05-18 00:00:00",OLB,CHI,94,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13415,Patrick,Peterson,"6'1"",203,"1990-07-11 04:00:00",CB,ARI,21,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13418,Anthony,Sherman,"5'10"",242,"1988-12-11 00:00:00",FB,KC,42,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13444,Daniel,Kilgore,"6'3"",291,"1987-12-18 00:00:00",C,KC,67,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13446,Bruce,Miller,"6'1"",248,"1987-08-06 00:00:00",FB,JAX,49,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.96,"2022-07-02 01:55:00",-9.96,"2022-07-02 00:00:00",NULL
+13453,Aldon,Smith,"6'4"",265,"1989-09-25 00:00:00",DE,DAL,58,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13462,James,Carpenter,"6'4"",321,"1989-03-22 05:00:00",G,ATL,77,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13479,Richard,Sherman,"6'3"",195,"1988-03-30 00:00:00",CB,SF,25,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+13480,Malcolm,Smith,"6'0"",229,"1989-07-05 00:00:00",OLB,CLE,56,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13484,K.J.,Wright,"6'4"",246,"1989-07-23 04:00:00",OLB,SEA,50,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13610,A.Q.,Shipley,"6'1"",307,"1986-05-22 00:00:00",C,TB,62,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13698,Mike,Pouncey,"6'5"",298,"1989-07-24 00:00:00",C,LAC,53,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+13721,Fletcher,Cox,"6'4"",310,"1990-12-13 00:00:00",DT,PHI,91,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13722,Vinny,Curry,"6'3"",279,"1988-06-30 00:00:00",DE,PHI,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13723,Nick,Foles,"6'6"",243,"1989-01-20 00:00:00",QB,CHI,9,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13730,Dennis,Kelly,"6'8"",321,"1990-01-16 00:00:00",OT,TEN,71,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+13741,Brandon,Bolden,"5'11"",220,"1990-01-26 00:00:00",RB,NE,38,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13744,Nate,Ebner,"6'0"",215,"1988-12-14 00:00:00",SS,NYG,43,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13748,Dont'a,Hightower,"6'3"",260,"1990-03-12 00:00:00",LB,NE,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13749,Chandler,Jones,"6'5"",265,"1990-02-27 00:00:00",OLB,ARI,55,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13753,Tavon,Wilson,"6'0"",208,"1990-03-19 00:00:00",SS,IND,31,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+13761,Stephon,Gilmore,"6'1"",202,"1990-09-19 00:00:00",CB,NE,24,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13788,Rishard,Matthews,"6'0"",210,"1989-10-12 00:00:00",WR,NULL,82,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13791,Lamar,Miller,"5'10"",221,"1991-04-25 00:00:00",RB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13799,Ryan,Tannehill,"6'4"",207,"1988-07-27 00:00:00",QB,TEN,17,1,https://s3-us-west-2.amazonaws.com/static.fan,14,"2022-07-02 01:55:00",14,"2022-07-02 00:00:00",NULL
+13810,Demario,Davis,"6'2"",248,"1989-01-11 10:00:00",OLB,NO,56,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13848,Kelechi,Osemele,"6'5"",335,"1989-06-24 00:00:00",G,KC,70,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13861,Orson,Charles,"6'2"",250,"1991-01-27 00:00:00",TE,NULL,83,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13868,George,Iloka,"6'4"",225,"1990-03-31 00:00:00",SS,MIN,NULL,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13870,Marvin,"Jones Jr.","6'2"",199,"1990-03-12 05:00:00",WR,DET,11,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/13870.png,-0.0499999,"2022-07-02 01:55:00",-0.0499999,"2022-07-02 00:00:00",NULL
+13871,Dre,Kirkpatrick,"6'2"",190,"1989-10-26 00:00:00",CB,ARI,20,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+13878,Mohamed,"Sanu Sr.","6'2"",210,"1989-08-22 00:00:00",WR,SF,14,1,https://s3-us-west-2.amazonaws.com/static.fan,-8.6,"2022-07-02 01:55:00",-8.6,"2022-07-02 00:00:00",NULL
+13882,Kevin,Zeitler,"6'4"",315,"1990-03-08 05:00:00",G,NYG,70,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13886,Johnson,Bademosi,"6'0"",219,"1990-07-23 00:00:00",DB,NO,29,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13887,Travis,Benjamin,"5'10"",175,"1989-12-29 00:00:00",WR,SF,17,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+13892,L.J.,Fort,"6'0"",232,"1990-01-03 00:00:00",OLB,BAL,58,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13894,Tashaun,"Gipson Sr.","6'1"",212,"1990-08-07 00:00:00",SS,CHI,38,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13905,Mitchell,Schwartz,"6'5"",320,"1989-06-08 00:00:00",OT,KC,71,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13910,Brandon,Weeden,"6'3"",220,"1983-10-14 00:00:00",QB,NULL,3,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13911,Billy,Winn,"6'4"",295,"1989-04-15 00:00:00",DE,GB,93,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13913,Kelvin,Beachum,"6'3"",308,"1989-06-08 00:00:00",OT,ARI,68,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13959,Brandon,Brooks,"6'5"",335,"1989-08-19 00:00:00",G,PHI,79,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+13961,Randy,Bullock,"5'9"",210,"1989-12-16 00:00:00",K,CIN,4,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+13969,Ben,Jones,"6'3"",308,"1989-07-02 00:00:00",C,TEN,60,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+13977,Whitney,Mercilus,"6'4"",258,"1990-07-21 00:00:00",OLB,HOU,59,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14005,T.Y.,Hilton,"5'10"",183,"1989-11-14 00:00:00",WR,IND,13,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14005.png,-0.25,"2022-07-02 01:55:00",-0.25,"2022-07-02 00:00:00",NULL
+14017,Bryan,Anger,"6'3"",205,"1988-10-06 00:00:00",P,HOU,9,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14032,Brandon,Marshall,"6'1"",242,"1989-09-10 00:00:00",ILB,NULL,54,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14037,Julian,Stanford,"6'1"",230,"1990-09-02 00:00:00",ILB,CAR,50,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14042,Aaron,Brewer,"6'5"",232,"1990-07-05 04:00:00",LS,ARI,46,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14048,Malik,Jackson,"6'5"",290,"1990-01-11 00:00:00",DT,PHI,97,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14057,Danny,Trevathan,"6'0"",237,"1990-03-24 00:00:00",ILB,CHI,59,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14059,Derek,Wolfe,"6'5"",285,"1990-02-24 00:00:00",DE,BAL,95,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14081,Dontari,Poe,"6'3"",346,"1990-08-18 00:00:00",DT,DAL,95,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14096,Jack,Crawford,"6'5"",288,"1988-09-07 00:00:00",DT,TEN,94,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14128,Melvin,"Ingram III","6'2"",247,"1989-04-26 00:00:00",DE,LAC,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14141,Cole,Beasley,"5'8"",174,"1989-04-26 00:00:00",WR,BUF,11,1,https://s3-us-west-2.amazonaws.com/static.fan,-10.44,"2022-07-02 01:55:00",-10.44,"2022-07-02 00:00:00",NULL
+14146,Tyrone,Crawford,"6'4"",290,"1989-11-22 00:00:00",DT,DAL,98,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14167,Kyle,Wilber,"6'4"",240,"1989-04-26 00:00:00",OLB,LV,58,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14187,Alshon,Jeffery,"6'3"",218,"1990-02-14 00:00:00",WR,PHI,17,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14222,Riley,Reiff,"6'6"",305,"1988-12-01 00:00:00",OT,MIN,71,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14225,Tahir,Whitehead,"6'1"",233,"1990-04-02 00:00:00",OLB,CAR,52,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14252,Kirk,Cousins,"6'3"",202,"1988-08-19 04:00:00",QB,MIN,8,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14252.png,5.06,"2022-07-02 01:55:00",5.06,"2022-07-02 00:00:00",NULL
+14257,Robert,"Griffin III","6'2"",213,"1990-02-12 00:00:00",QB,BAL,3,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.98,"2022-07-02 01:55:00",-9.98,"2022-07-02 00:00:00",NULL
+14269,Alfred,Morris,"5'10"",219,"1988-12-12 00:00:00",RB,NYG,36,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14280,Mike,Daniels,"6'0"",310,"1989-05-05 00:00:00",DT,CIN,76,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14285,Casey,"Hayward Jr.","5'11"",192,"1989-09-09 00:00:00",CB,LAC,26,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14340,Josh,Norman,"6'0"",200,"1987-12-15 00:00:00",CB,BUF,29,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14358,Akiem,Hicks,"6'4"",352,"1989-11-16 00:00:00",DT,CHI,96,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14375,Lavonte,David,"6'1"",233,"1990-01-23 00:00:00",ILB,TB,54,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14381,Leonard,Johnson,"5'10"",202,"1990-03-30 00:00:00",CB,NULL,27,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14385,Doug,Martin,"5'9"",223,"1989-01-13 00:00:00",RB,NULL,22,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14391,Keith,Tandy,"5'10"",200,"1989-02-12 00:00:00",SS,NULL,35,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14397,Michael,Brockers,"6'5"",305,"1990-12-21 00:00:00",DT,LAR,90,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14404,Austin,Davis,"6'2"",221,"1989-06-02 00:00:00",QB,NULL,12,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14409,Johnny,Hekker,"6'5"",241,"1990-02-08 05:00:00",P,LAR,6,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14412,Janoris,Jenkins,"5'10"",190,"1988-10-29 08:00:00",CB,NO,20,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14414,Trumaine,Johnson,"6'2"",213,"1990-01-01 00:00:00",CB,CAR,37,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14419,Rodney,McLeod,"5'10"",195,"1990-06-23 04:00:00",FS,PHI,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14461,Harrison,Smith,"6'2"",214,"1989-02-02 00:00:00",SS,MIN,22,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14469,Justin,Bethel,"6'0"",200,"1990-06-17 00:00:00",CB,NE,29,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14481,Senio,Kelemete,"6'3"",301,"1990-05-10 00:00:00",G,HOU,64,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14483,Bobby,Massie,"6'6"",325,"1989-08-01 04:00:00",OT,CHI,70,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14505,Joe,Looney,"6'3"",315,"1990-08-31 04:00:00",C,DAL,73,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14534,Bobby,Wagner,"6'0"",242,"1990-06-27 04:00:00",ILB,SEA,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14536,Russell,Wilson,"5'11"",215,"1988-11-29 05:00:00",QB,SEA,3,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14536.png,29.39,"2022-07-02 01:55:00",29.39,"2022-07-02 00:00:00",NULL
+14567,Josh,Harris,"6'1"",224,"1989-04-27 00:00:00",LS,ATL,47,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14583,Bruce,Irvin,"6'3"",250,"1987-11-01 00:00:00",OLB,SEA,51,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14585,J.R.,Sweezy,"6'5"",310,"1989-04-08 04:00:00",G,ARI,64,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14587,Josh,Gordon,"6'3"",225,"1991-04-13 00:00:00",WR,SEA,NULL,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14590,Beau,Brinkley,"6'4"",260,"1990-01-25 00:00:00",LS,TEN,48,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14635,Mark,Barron,"6'1"",213,"1989-10-27 00:00:00",ILB,DEN,42,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14646,Olivier,Vernon,"6'2"",262,"1990-10-07 00:00:00",DE,CLE,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14650,David,DeCastro,"6'5"",316,"1990-01-11 00:00:00",G,PIT,66,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14688,Justin,Tucker,"6'1"",183,"1989-11-21 00:00:00",K,BAL,9,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14697,Greg,Zuerlein,"6'0"",191,"1987-12-27 00:00:00",K,DAL,2,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14705,Ty,Nsekhe,"6'8"",330,"1985-10-27 00:00:00",OT,BUF,77,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14711,Craig,Robertson,"6'1"",234,"1988-02-11 10:00:00",OLB,NO,52,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14730,Neiko,Thorpe,"6'2"",210,"1990-02-11 00:00:00",CB,SEA,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14740,Kai,Forbath,"5'11"",197,"1987-09-02 00:00:00",K,CAR,NULL,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14743,Lawrence,Guy,"6'4"",315,"1990-03-17 00:00:00",DE,NE,93,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14767,Anthony,"Levine Sr.","5'11"",207,"1987-03-27 00:00:00",SS,BAL,41,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14776,Kyle,Nelson,"6'2"",240,"1986-10-03 00:00:00",LS,SF,86,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14783,James,Develin,"6'3"",255,"1988-07-23 00:00:00",FB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14786,Patrick,DiMarco,"6'1"",234,"1989-04-30 00:00:00",FB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14789,Jamize,Olawale,"6'1"",240,"1989-04-17 00:00:00",FB,DAL,49,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14791,Tom,Compton,"6'6"",315,"1989-05-10 00:00:00",G,SF,66,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14793,DeShawn,Shead,"6'1"",220,"1988-06-28 00:00:00",CB,NULL,35,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14795,Josh,Bellamy,"6'0"",208,"1989-05-18 00:00:00",WR,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14828,Chris,Hogan,"6'1"",210,"1987-10-24 00:00:00",WR,NYJ,15,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.96,"2022-07-02 01:55:00",-9.96,"2022-07-02 00:00:00",NULL
+14851,Damion,Square,"6'2"",293,"1989-02-06 00:00:00",NT,LAC,71,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14855,Matt,Barkley,"6'2"",234,"1990-09-08 00:00:00",QB,BUF,5,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14856,Zach,Ertz,"6'5"",250,"1990-11-10 00:00:00",TE,PHI,86,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14856.png,-0.380001,"2022-07-02 01:55:00",-0.380001,"2022-07-02 00:00:00",NULL
+14857,Lane,Johnson,"6'6"",317,"1990-05-08 00:00:00",OT,PHI,65,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14860,Jordan,Poyer,"6'0"",191,"1991-04-25 00:00:00",SS,BUF,21,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14864,Kiko,Alonso,"6'3"",239,"1990-08-14 00:00:00",ILB,NO,54,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14865,Marquise,Goodwin,"5'9"",180,"1990-11-19 00:00:00",WR,PHI,13,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14867,Dustin,Hopkins,"6'2"",205,"1990-10-01 04:00:00",K,WAS,3,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14871,Robert,Woods,"6'0"",195,"1992-04-10 04:00:00",WR,LAR,17,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14871.png,22.05,"2022-07-02 01:55:00",22.05,"2022-07-02 00:00:00",NULL
+14875,Dion,Jordan,"6'6"",284,"1990-03-05 00:00:00",DE,SF,96,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14877,Caleb,Sturgis,"5'10"",188,"1989-08-09 00:00:00",K,NULL,6,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14878,Jamar,Taylor,"5'11"",192,"1990-09-29 00:00:00",CB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14885,Jamie,"Collins Sr.","6'3"",255,"1989-10-20 00:00:00",LB,DET,58,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14887,Duron,Harmon,"6'1"",205,"1991-01-24 00:00:00",SS,DET,26,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14888,Logan,Ryan,"5'11"",195,"1991-02-09 00:00:00",CB,NYG,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14890,Oday,Aboushi,"6'5"",315,"1991-06-05 00:00:00",G,DET,76,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14894,Sheldon,Richardson,"6'3"",294,"1990-11-29 00:00:00",DT,CLE,98,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14895,Geno,Smith,"6'3"",221,"1990-10-10 04:00:00",QB,SEA,7,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14896,Brian,Winters,"6'4"",320,"1991-07-10 00:00:00",G,BUF,66,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14900,Ryan,Jensen,"6'4"",319,"1991-05-27 08:00:00",C,TB,66,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14901,Kyle,Juszczyk,"6'1"",235,"1991-04-23 00:00:00",FB,SF,44,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14904,John,Simon,"6'2"",260,"1990-10-14 00:00:00",DE,NE,55,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14905,Rick,Wagner,"6'6"",308,"1989-10-21 00:00:00",OT,GB,71,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14906,Brandon,Williams,"6'1"",336,"1989-02-21 00:00:00",NT,BAL,98,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14916,Giovani,Bernard,"5'9"",205,"1991-11-22 00:00:00",RB,CIN,25,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.74,"2022-07-02 01:55:00",-9.74,"2022-07-02 00:00:00",NULL
+14917,Rex,Burkhead,"5'10"",215,"1990-07-02 00:00:00",RB,NE,34,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14917.png,8.92,"2022-07-02 01:55:00",8.92,"2022-07-02 00:00:00",NULL
+14918,Tyler,Eifert,"6'6"",255,"1990-09-08 00:00:00",TE,JAX,88,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.94,"2022-07-02 01:55:00",-9.94,"2022-07-02 00:00:00",NULL
+14922,Margus,Hunt,"6'8"",277,"1987-07-14 00:00:00",NT,NO,95,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14925,Shawn,Williams,"6'0"",212,"1991-05-13 00:00:00",SS,CIN,36,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14946,Armonty,Bryant,"6'4"",263,"1990-05-20 00:00:00",DE,NULL,98,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14949,Barkevious,Mingo,"6'5"",235,"1990-10-04 00:00:00",OLB,CHI,50,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14959,Chris,Hubbard,"6'4"",295,"1991-04-23 00:00:00",OT,CLE,74,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14967,Le'Veon,Bell,"6'1"",225,"1992-02-18 00:00:00",RB,NYJ,26,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14967.png,-1.11,"2022-07-02 01:55:00",-1.11,"2022-07-02 00:00:00",NULL
+14971,Landry,Jones,"6'4"",225,"1989-04-04 00:00:00",QB,NULL,2,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14972,Shamarko,Thomas,"5'9"",213,"1991-02-01 00:00:00",SS,NULL,38,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14974,Nick,Williams,"6'4"",310,"1990-02-21 00:00:00",DT,DET,97,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14975,Vince,Williams,"6'1"",233,"1989-12-27 00:00:00",ILB,PIT,98,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14978,Justin,Hunter,"6'4"",196,"1991-05-20 00:00:00",WR,NULL,11,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14979,Brian,Schwenke,"6'3"",314,"1991-03-22 00:00:00",G,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14981,Chance,Warmack,"6'2"",323,"1991-09-14 00:00:00",G,SEA,65,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14983,Blidi,Wreh-Wilson,"6'1"",190,"1989-12-05 10:00:00",CB,ATL,33,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14985,Ryan,Griffin,"6'6"",255,"1990-01-11 00:00:00",TE,NYJ,84,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+14986,DeAndre,Hopkins,"6'1"",214,"1992-06-06 00:00:00",WR,ARI,10,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/14986.png,65.63,"2022-07-02 01:55:00",65.63,"2022-07-02 00:00:00",NULL
+14988,David,Quessenberry,"6'5"",310,"1990-08-24 00:00:00",OT,TEN,72,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+14989,D.J.,Swearinger,"5'10"",205,"1991-09-01 00:00:00",FS,NO,36,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+14996,Brandon,McManus,"6'3"",201,"1991-07-25 00:00:00",K,DEN,8,1,https://s3-us-west-2.amazonaws.com/static.fan,-8.6,"2022-07-02 01:55:00",-8.6,"2022-07-02 00:00:00",NULL
+15008,Hugh,Thornton,"6'3"",320,"1991-06-28 00:00:00",G,NULL,69,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15010,Kerwynn,Williams,"5'8"",195,"1991-06-09 00:00:00",RB,NULL,30,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15011,Chris,Banjo,"5'10"",207,"1990-02-26 05:00:00",FS,ARI,31,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15012,Jonathan,Cyprien,"6'1"",211,"1990-07-29 00:00:00",DB,SF,32,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15020,CJ,Anderson,"5'8"",224,"1991-02-10 00:00:00",RB,NULL,26,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15029,Lerentee,McCray,"6'3"",249,"1990-08-26 00:00:00",DE,JAX,55,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15038,Tavarres,King,"6'0"",189,"1990-07-14 00:00:00",WR,NULL,12,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15041,Kayvon,Webster,"5'11"",190,"1991-02-01 00:00:00",DB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15042,Sylvester,Williams,"6'2"",328,"1988-11-21 05:00:00",DT,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15046,Eric,Fisher,"6'7"",315,"1991-01-05 05:00:00",OT,KC,72,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15048,Travis,Kelce,"6'5"",260,"1989-10-05 04:00:00",TE,KC,87,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15048.png,23.7,"2022-07-02 01:55:00",23.7,"2022-07-02 00:00:00",NULL
+15049,Eric,Kush,"6'4"",317,"1989-09-09 00:00:00",C,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15063,John,Wetzel,"6'7"",328,"1991-07-18 00:00:00",OT,ATL,75,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15066,Brice,Butler,"6'3"",205,"1990-01-29 00:00:00",WR,NULL,14,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15067,D.J.,Hayden,"5'11"",190,"1990-06-27 00:00:00",CB,JAX,25,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15069,Stacy,McGee,"6'3"",340,"1990-01-17 10:00:00",DE,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15071,Latavius,Murray,"6'3"",230,"1990-01-18 00:00:00",RB,NO,28,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15071.png,-0.0499999,"2022-07-02 01:55:00",-0.0499999,"2022-07-02 00:00:00",NULL
+15076,Keenan,Allen,"6'2"",211,"1992-04-27 04:00:00",WR,LAC,13,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15076.png,12.78,"2022-07-02 01:55:00",12.78,"2022-07-02 00:00:00",NULL
+15077,D.J.,Fluker,"6'5"",342,"1991-03-13 05:00:00",G,BAL,70,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+15079,Manti,Te'o,"6'1"",241,"1991-01-26 00:00:00",ILB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15083,Travis,Frederick,"6'4"",320,"1991-01-01 00:00:00",C,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15086,B.W.,Webb,"5'11"",188,"1990-01-07 00:00:00",CB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15087,J.J.,Wilcox,"6'0"",212,"1991-02-14 00:00:00",DB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15088,Terrance,Williams,"6'2"",208,"1989-09-18 00:00:00",WR,NULL,83,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15090,Johnathan,Hankins,"6'3"",340,"1992-03-30 00:00:00",DT,LV,90,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15092,Damontre,Moore,"6'4"",260,"1992-09-11 00:00:00",DE,SEA,99,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15094,Justin,Pugh,"6'5"",311,"1990-08-15 04:00:00",G,ARI,67,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15096,David,Amerson,"6'1"",205,"1991-12-08 00:00:00",CB,NULL,38,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15100,Jordan,Reed,"6'2"",236,"1990-07-03 00:00:00",TE,SF,81,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+15102,Chris,Thompson,"5'8"",195,"1990-10-20 04:00:00",RB,JAX,34,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.95,"2022-07-02 01:55:00",-9.95,"2022-07-02 00:00:00",NULL
+15112,Tress,Way,"6'1"",220,"1990-04-18 04:00:00",P,WAS,5,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15113,Jon,Bostic,"6'1"",245,"1991-05-05 04:00:00",ILB,WAS,53,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15115,Kyle,Long,"6'6"",311,"1988-12-05 00:00:00",G,NULL,75,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15116,Jordan,Mills,"6'5"",316,"1990-12-24 00:00:00",OT,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15122,Ziggy,Ansah,"6'5"",275,"1989-05-29 00:00:00",DE,SF,98,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15125,Sam,Martin,"6'1"",205,"1990-02-27 00:00:00",P,DEN,6,1,https://s3-us-west-2.amazonaws.com/static.fan,-8.6,"2022-07-02 01:55:00",-8.6,"2022-07-02 00:00:00",NULL
+15126,Theo,Riddick,"5'9"",201,"1991-05-04 00:00:00",RB,LV,35,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15127,Darius,Slay,"6'0"",190,"1991-01-01 00:00:00",CB,PHI,24,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15131,David,Bakhtiari,"6'4"",310,"1991-09-30 04:00:00",OT,GB,69,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+15136,Micah,Hyde,"6'0"",197,"1990-12-31 00:00:00",FS,BUF,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15137,Datone,Jones,"6'4"",285,"1990-07-24 00:00:00",DE,LV,95,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15140,JC,Tretter,"6'4"",307,"1991-02-12 00:00:00",C,CLE,64,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15150,Cordarrelle,Patterson,"6'2"",238,"1991-03-17 00:00:00",WR,CHI,84,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.9,"2022-07-02 01:55:00",-9.9,"2022-07-02 00:00:00",NULL
+15151,Xavier,Rhodes,"6'1"",218,"1990-06-19 00:00:00",CB,IND,27,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15177,Robert,Alford,"5'10"",186,"1988-11-01 00:00:00",CB,ARI,23,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15183,Desmond,Trufant,"6'0"",190,"1990-09-10 00:00:00",CB,DET,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+15185,Kenjon,Barner,"5'9"",195,"1989-04-28 00:00:00",RB,TB,44,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15186,A.J.,Klein,"6'1"",240,"1991-07-30 00:00:00",OLB,BUF,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15188,Star,Lotulelei,"6'2"",315,"1989-12-20 00:00:00",DT,BUF,98,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15189,Kawann,Short,"6'3"",315,"1989-02-02 00:00:00",DT,CAR,99,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+15190,Ryan,Griffin,"6'5"",210,"1989-11-17 00:00:00",QB,TB,4,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15193,Terron,Armstead,"6'5"",304,"1991-07-23 00:00:00",OT,NO,72,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15194,John,Jenkins,"6'3"",327,"1989-07-11 00:00:00",NT,CHI,90,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+15196,Kenny,Stills,"6'1"",202,"1992-04-22 00:00:00",WR,HOU,12,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.96,"2022-07-02 01:55:00",-9.96,"2022-07-02 00:00:00",NULL
+15197,Kenny,Vaccaro,"6'0"",214,"1991-02-15 00:00:00",SS,TEN,24,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+15200,William,Gholston,"6'6"",281,"1991-07-31 08:00:00",DE,TB,92,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15201,Mike,Glennon,"6'7"",225,"1989-12-12 00:00:00",QB,JAX,2,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15203,Steven,Means,"6'3"",263,"1990-09-16 00:00:00",DE,ATL,55,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15206,Daren,Bates,"5'11"",225,"1990-11-27 00:00:00",ILB,TEN,56,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15208,Cody,Davis,"6'2"",203,"1989-06-06 00:00:00",FS,NE,22,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15215,Tavon,Austin,"5'8"",179,"1990-03-15 00:00:00",WR,SF,5,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15220,Alec,Ogletree,"6'2"",242,"1991-09-25 00:00:00",ILB,NYJ,52,1,https://s3-us-west-2.amazonaws.com/static.fan,-8.6,"2022-07-02 01:55:00",-8.6,"2022-07-02 00:00:00",NULL
+15226,Tyrann,Mathieu,"5'9"",190,"1992-05-13 04:00:00",SS,KC,32,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15227,Kevin,Minter,"6'0"",246,"1990-12-03 00:00:00",ILB,TB,51,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15228,Alex,Okafor,"6'4"",261,"1991-02-08 00:00:00",DE,KC,57,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+15231,Earl,Watford,"6'3"",300,"1990-06-24 00:00:00",G,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15233,Cornellius,Carradine,"6'4"",276,"1990-02-18 00:00:00",DE,NULL,92,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15234,Marcus,Cooper,"6'2"",192,"1990-02-01 00:00:00",CB,NULL,31,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15239,Vance,McDonald,"6'4"",267,"1990-06-13 00:00:00",TE,PIT,89,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.96,"2022-07-02 01:55:00",-9.96,"2022-07-02 00:00:00",NULL
+15247,Darren,Fells,"6'7"",270,"1986-04-22 00:00:00",TE,HOU,87,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.9,"2022-07-02 01:55:00",-9.9,"2022-07-02 00:00:00",NULL
+15263,Luke,Willson,"6'5"",255,"1990-01-15 05:00:00",TE,SEA,82,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15293,Tyler,Bray,"6'6"",215,"1991-12-27 00:00:00",QB,CHI,8,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15302,Bradley,McDougald,"6'1"",215,"1990-11-15 05:00:00",SS,NYJ,30,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15305,Demetrius,Harris,"6'7"",230,"1991-07-29 04:00:00",TE,CHI,86,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.98,"2022-07-02 01:55:00",-9.98,"2022-07-02 00:00:00",NULL
+15306,Jahleel,Addae,"5'10"",195,"1990-01-24 00:00:00",SS,LAC,NULL,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15327,Will,Compton,"6'1"",235,"1989-09-19 00:00:00",ILB,TEN,53,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+15359,Rashaan,Melvin,"6'2"",194,"1989-10-02 00:00:00",CB,JAX,22,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15374,Patrick,Omameh,"6'4"",327,"1989-12-29 00:00:00",G,LV,78,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15375,Mike,Purcell,"6'3"",328,"1991-04-20 04:00:00",NT,DEN,98,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15378,Levine,Toilolo,"6'8"",268,"1991-07-30 00:00:00",TE,NYG,85,1,https://s3-us-west-2.amazonaws.com/static.fan,-10.04,"2022-07-02 01:55:00",-10.04,"2022-07-02 00:00:00",NULL
+15380,Jordan,Dangerfield,"5'11"",199,"1990-12-25 00:00:00",SS,PIT,37,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15423,Brandon,Copeland,"6'3"",263,"1991-07-02 00:00:00",OLB,NE,52,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15424,Jordan,Devey,"6'6"",320,"1988-01-11 00:00:00",G,BUF,68,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15441,Abry,Jones,"6'4"",318,"1991-09-08 00:00:00",NT,JAX,95,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15450,LaRoy,Reynolds,"6'1"",228,"1990-11-03 00:00:00",OLB,ATL,59,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15454,Carson,Tinker,"6'0"",233,"1989-11-15 00:00:00",LS,NYG,NULL,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15469,Nickell,Robey-Coleman,"5'8"",180,"1992-01-17 00:00:00",CB,PHI,31,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15478,A.J.,Bouye,"6'0"",186,"1991-08-16 00:00:00",CB,DEN,21,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15509,Jaron,Brown,"6'3"",204,"1990-01-08 00:00:00",WR,ARI,18,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15534,Adam,Thielen,"6'2"",200,"1990-08-22 04:00:00",WR,MIN,19,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/15534.png,8.2,"2022-07-02 01:55:00",8.2,"2022-07-02 00:00:00",NULL
+15555,Zach,Line,"6'1"",233,"1990-04-26 08:00:00",FB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15559,Ryan,Allen,"6'2"",220,"1990-02-28 00:00:00",P,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15576,Jeff,Heath,"6'1"",212,"1991-05-14 00:00:00",SS,LV,38,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15583,Lane,Taylor,"6'3"",324,"1989-11-22 00:00:00",G,GB,65,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15589,Michael,Thomas,"5'11"",195,"1990-03-17 00:00:00",SS,HOU,28,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15602,Jack,Doyle,"6'6"",262,"1990-05-05 00:00:00",TE,IND,84,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.81,"2022-07-02 01:55:00",-9.81,"2022-07-02 00:00:00",NULL
+15625,Colton,Schmidt,"5'10"",215,"1990-10-27 00:00:00",P,NULL,6,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15640,Derek,Carrier,"6'3"",240,"1990-07-25 00:00:00",TE,LV,85,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15647,Mike,Remmers,"6'5"",308,"1989-04-11 00:00:00",OT,KC,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15666,Ben,Garland,"6'5"",308,"1988-04-06 00:00:00",C,SF,63,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+15669,Nathan,Stupar,"6'2"",241,"1988-03-14 00:00:00",ILB,NULL,45,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15672,Kenny,Wiggins,"6'6"",315,"1988-08-08 00:00:00",G,DET,79,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15694,Case,Keenum,"6'1"",215,"1988-02-17 00:00:00",QB,CLE,5,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15725,Brittan,Golden,"6'0"",185,"1988-07-20 04:00:00",WR,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15734,Patrick,Scales,"6'3"",228,"1988-02-11 05:00:00",LS,CHI,48,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15814,Benson,Mayowa,"6'3"",265,"1991-08-03 00:00:00",DE,SEA,95,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15854,Brett,Maher,"6'0"",190,"1989-11-21 00:00:00",K,WAS,2,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15855,Deon,Lacey,"6'3"",235,"1990-07-18 00:00:00",LB,BUF,40,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15866,Josh,Hill,"6'5"",250,"1990-05-21 08:00:00",TE,NO,89,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.33,"2022-07-02 01:55:00",-5.33,"2022-07-02 00:00:00",NULL
+15917,James,Winchester,"6'3"",240,"1989-08-06 00:00:00",LS,KC,41,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15960,Beau,Allen,"6'3"",327,"1991-11-14 00:00:00",DT,NE,94,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15961,Josh,Andrews,"6'2"",298,"1991-06-21 00:00:00",G,NYJ,68,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15965,Trey,Burton,"6'2"",238,"1991-10-29 00:00:00",TE,IND,80,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+15980,Alejandro,Villanueva,"6'9"",320,"1988-09-22 00:00:00",OT,PIT,78,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+15988,Ross,Cockrell,"6'0"",190,"1991-08-06 00:00:00",CB,TB,43,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16003,Sammy,Watkins,"6'1"",211,"1993-06-14 00:00:00",WR,KC,14,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16003.png,11.57,"2022-07-02 01:55:00",11.57,"2022-07-02 00:00:00",NULL
+16015,Ja'Wuan,James,"6'6"",312,"1992-06-03 00:00:00",OT,DEN,70,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16020,Jarvis,Landry,"5'11"",196,"1992-11-28 00:00:00",WR,CLE,80,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16020.png,11.74,"2022-07-02 01:55:00",11.74,"2022-07-02 00:00:00",NULL
+16021,Tyler,Larsen,"6'4"",325,"1991-07-08 08:00:00",C,CAR,69,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16029,Billy,Turner,"6'5"",310,"1991-10-17 00:00:00",OL,GB,77,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16031,Damien,Williams,"5'11"",224,"1992-04-03 05:00:00",RB,KC,26,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16035,Malcolm,Butler,"5'11"",190,"1990-03-02 00:00:00",CB,TEN,21,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16039,Cameron,Fleming,"6'5"",320,"1992-09-03 00:00:00",OT,NYG,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16041,Jimmy,Garoppolo,"6'2"",225,"1991-11-02 00:00:00",QB,SF,10,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16041.png,-0.4,"2022-07-02 01:55:00",-0.4,"2022-07-02 00:00:00",NULL
+16051,Tyler,Ott,"6'3"",253,"1992-02-28 00:00:00",LS,SEA,69,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16056,James,White,"5'10"",205,"1992-02-03 00:00:00",RB,NE,28,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16056.png,-1.23,"2022-07-02 01:55:00",-1.23,"2022-07-02 00:00:00",NULL
+16061,Dakota,Dozier,"6'4"",312,"1991-04-30 04:00:00",G,MIN,78,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16067,Kerry,"Hyder Jr.","6'2"",275,"1991-05-02 00:00:00",DE,SF,92,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16071,Brent,Qvale,"6'7"",315,"1991-03-11 00:00:00",OT,HOU,76,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16078,Terrence,Brooks,"5'11"",205,"1992-03-02 00:00:00",FS,NE,25,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16086,James,Hurst,"6'5"",296,"1991-12-17 00:00:00",OT,NO,74,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16088,Timmy,Jernigan,"6'2"",295,"1992-09-24 00:00:00",DT,JAX,98,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16093,C.J.,Mosley,"6'2"",250,"1992-06-19 00:00:00",ILB,NYJ,57,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16100,Brent,Urban,"6'7"",300,"1991-05-05 00:00:00",DT,CHI,92,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16104,Russell,Bodine,"6'3"",308,"1992-06-30 00:00:00",C,DET,60,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16105,Will,Clarke,"6'6"",275,"1991-05-04 00:00:00",DE,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16107,Darqueze,Dennard,"5'11"",205,"1991-10-10 00:00:00",CB,ATL,34,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16109,Marquis,Flowers,"6'2"",230,"1992-02-16 00:00:00",ILB,NULL,46,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16111,Ryan,Hewitt,"6'4"",246,"1991-01-24 00:00:00",TE,NULL,88,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16113,Trey,Hopkins,"6'3"",316,"1992-07-06 00:00:00",OL,CIN,66,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16116,AJ,McCarron,"6'3"",215,"1990-09-13 00:00:00",QB,HOU,2,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16125,Joel,Bitonio,"6'4"",320,"1991-10-11 00:00:00",G,CLE,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16127,Isaiah,Crowell,"5'11"",225,"1993-01-08 05:00:00",RB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16128,Pierre,Desir,"6'1"",192,"1990-09-08 00:00:00",CB,NYJ,35,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16129,Taylor,Gabriel,"5'7"",167,"1991-02-17 10:00:00",WR,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16133,Christian,Kirksey,"6'2"",233,"1992-08-31 12:00:00",OLB,GB,58,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16141,Willie,"Snead IV","5'11"",205,"1992-10-17 00:00:00",WR,BAL,83,1,https://s3-us-west-2.amazonaws.com/static.fan,-4.63,"2022-07-02 01:55:00",-4.63,"2022-07-02 00:00:00",NULL
+16143,K'Waun,Williams,"5'9"",185,"1991-07-12 04:00:00",CB,SF,24,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16146,Martavis,Bryant,"6'4"",211,"1991-12-20 00:00:00",WR,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16150,Wesley,Johnson,"6'5"",297,"1991-01-09 00:00:00",C,NULL,61,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16153,Josh,Mauro,"6'6"",290,"1991-02-17 00:00:00",DE,JAX,97,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16154,Dan,McCullers,"6'7"",352,"1992-08-11 00:00:00",NT,CHI,75,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16157,Ryan,Shazier,"6'1"",230,"1992-01-14 00:00:00",ILB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16159,Stephon,Tuitt,"6'6"",303,"1993-05-23 00:00:00",DE,PIT,91,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16171,DaQuan,Jones,"6'4"",322,"1991-12-27 00:00:00",NT,TEN,90,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16172,Taylor,Lewan,"6'7"",309,"1991-07-22 00:00:00",OT,TEN,77,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16173,Justin,McCray,"6'3"",315,"1992-05-31 00:00:00",G,ATL,65,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16182,Avery,Williamson,"6'1"",246,"1992-03-09 00:00:00",ILB,NYJ,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16191,Chris,Boswell,"6'2"",185,"1991-03-16 00:00:00",K,PIT,9,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16194,Jadeveon,Clowney,"6'5"",255,"1993-02-14 00:00:00",DE,TEN,99,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16198,Matt,Feiler,"6'6"",330,"1992-07-07 00:00:00",OT,PIT,71,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16199,James,Ferentz,"6'2"",300,"1989-06-05 00:00:00",G,NE,66,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16212,Xavier,Su'a-Filo,"6'4"",310,"1991-01-01 00:00:00",G,CIN,72,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16221,Jonotthan,Harrison,"6'4"",300,"1991-08-25 00:00:00",C,BUF,NULL,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16226,Zach,Kerr,"6'2"",334,"1990-08-29 00:00:00",DT,CAR,92,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16232,Donte,Moncrief,"6'2"",221,"1993-08-06 00:00:00",WR,NYJ,18,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16236,Cody,Parkey,"6'0"",189,"1992-02-19 00:00:00",K,CLE,2,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16241,Josh,Walker,"6'5"",320,"1991-06-02 00:00:00",G,NULL,73,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16245,Blake,Bortles,"6'5"",236,"1992-04-28 00:00:00",QB,DEN,5,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16246,Luke,Bowanko,"6'5"",293,"1991-06-13 00:00:00",G,NULL,72,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16249,Aaron,Colvin,"6'0"",191,"1991-10-02 00:00:00",CB,WAS,34,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16253,Allen,Hurns,"6'3"",195,"1991-11-12 00:00:00",WR,MIA,17,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16258,Marqise,Lee,"6'0"",196,"1991-11-25 00:00:00",WR,NE,13,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16259,Brandon,Linder,"6'6"",315,"1992-01-25 00:00:00",C,JAX,65,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16263,Allen,"Robinson II","6'2"",220,"1993-08-24 00:00:00",WR,CHI,12,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16263.png,19.67,"2022-07-02 01:55:00",19.67,"2022-07-02 00:00:00",NULL
+16264,Tyler,Shatley,"6'3"",310,"1991-05-05 00:00:00",G,JAX,69,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16265,Chris,Smith,"6'1"",265,"1992-02-11 00:00:00",DE,LV,92,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16268,Josh,Wells,"6'6"",306,"1991-02-14 10:00:00",OT,TB,72,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16271,Shaquil,Barrett,"6'2"",250,"1992-11-17 10:00:00",OLB,TB,58,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16273,Kapri,Bibbs,"5'9"",212,"1993-01-10 00:00:00",RB,NULL,22,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16276,Bennie,Fowler,"6'1"",217,"1991-06-10 00:00:00",WR,NO,16,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16278,Cody,Latimer,"6'3"",222,"1992-10-10 00:00:00",WR,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16280,Corey,Nelson,"6'1"",226,"1992-04-22 04:00:00",ILB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16281,Matt,Paradis,"6'3"",300,"1989-10-12 08:00:00",C,CAR,61,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16283,Bradley,Roby,"5'11"",194,"1992-05-01 00:00:00",CB,HOU,21,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16284,Michael,"Schofield III","6'6"",301,"1990-11-15 05:00:00",G,CAR,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16293,Laurent,Duvernay-Tardif,"6'5"",321,"1991-02-11 00:00:00",G,KC,76,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16294,Dee,Ford,"6'2"",252,"1991-03-19 00:00:00",DE,SF,55,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16295,Zach,Fulton,"6'5"",321,"1991-09-23 00:00:00",G,HOU,73,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16297,Phillip,Gaines,"6'0"",193,"1991-04-04 00:00:00",CB,HOU,29,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16301,Cairo,Santos,"5'8"",164,"1991-11-12 00:00:00",K,CHI,2,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16303,Daniel,Sorensen,"6'2"",208,"1990-03-05 05:00:00",FS,KC,49,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16305,De'Anthony,Thomas,"5'8"",176,"1993-01-05 00:00:00",WR,BAL,16,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16308,Albert,Wilson,"5'9"",195,"1992-07-12 00:00:00",WR,MIA,15,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16310,Denico,Autry,"6'5"",285,"1990-07-15 00:00:00",DL,IND,96,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16311,Derek,Carr,"6'3"",210,"1991-03-28 05:00:00",QB,LV,4,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16311.png,12.9,"2022-07-02 01:55:00",12.9,"2022-07-02 00:00:00",NULL
+16312,T.J.,Carrie,"6'0"",204,"1990-07-28 00:00:00",CB,IND,38,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16315,Justin,Ellis,"6'2"",350,"1990-12-27 00:00:00",DT,BAL,71,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16319,Shelby,Harris,"6'2"",290,"1991-08-11 00:00:00",NT,DEN,96,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16320,Gabe,Jackson,"6'3"",335,"1991-07-12 00:00:00",G,LV,66,1,https://s3-us-west-2.amazonaws.com/static.fan,-16.18,"2022-07-02 01:55:00",-16.18,"2022-07-02 00:00:00",NULL
+16323,Khalil,Mack,"6'3"",269,"1991-02-22 00:00:00",OLB,CHI,52,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16326,Seth,Roberts,"6'2"",195,"1991-02-22 00:00:00",WR,CAR,15,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.31,"2022-07-02 01:55:00",-5.31,"2022-07-02 00:00:00",NULL
+16334,Jeremiah,Attaochu,"6'3"",252,"1993-01-17 00:00:00",OLB,DEN,97,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16353,Jason,Verrett,"5'10"",188,"1991-06-18 00:00:00",DB,SF,22,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16364,Anthony,Hitchens,"6'0"",235,"1992-06-10 04:00:00",LB,KC,53,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16365,Casey,Kreiter,"6'1"",250,"1990-08-13 04:00:00",LS,NYG,58,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16366,DeMarcus,Lawrence,"6'3"",265,"1992-04-28 00:00:00",DE,DAL,90,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16369,Zack,Martin,"6'4"",315,"1990-11-20 05:00:00",G,DAL,70,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16370,Terrance,Mitchell,"5'11"",191,"1992-05-17 00:00:00",CB,CLE,39,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16372,Tyler,Patmon,"5'10"",179,"1991-01-26 00:00:00",CB,NULL,8,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16378,Keith,Smith,"6'0"",240,"1992-04-08 00:00:00",FB,ATL,40,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16389,Odell,"Beckham Jr.","5'11"",198,"1992-11-05 00:00:00",WR,CLE,13,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16389.png,9.78,"2022-07-02 01:55:00",9.78,"2022-07-02 00:00:00",NULL
+16390,Nat,Berhe,"5'10"",193,"1991-07-06 00:00:00",FS,NULL,31,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16391,Jay,Bromley,"6'3"",306,"1992-05-28 00:00:00",DT,NULL,90,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16395,Xavier,Grimble,"6'4"",261,"1992-09-22 00:00:00",TE,BAL,85,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16396,Bennett,Jackson,"6'0"",192,"1991-09-16 00:00:00",CB,NYJ,39,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16397,Devon,Kennard,"6'3"",256,"1991-06-24 00:00:00",OLB,ARI,42,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16400,Weston,Richburg,"6'4"",290,"1991-07-09 00:00:00",C,SF,58,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16407,Bashaud,Breeland,"5'11"",195,"1992-01-30 00:00:00",CB,KC,21,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16419,Morgan,Moses,"6'6"",330,"1991-03-03 00:00:00",OT,WAS,76,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16420,Trent,Murphy,"6'6"",260,"1990-12-22 00:00:00",DE,BUF,93,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16429,Brandon,Dunn,"6'2"",310,"1992-09-05 00:00:00",DE,HOU,92,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16430,David,Fales,"6'2"",213,"1990-10-04 00:00:00",QB,NYJ,3,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16432,Kyle,Fuller,"5'11"",194,"1992-02-16 05:00:00",CB,CHI,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16433,Ryan,Groy,"6'5"",320,"1990-09-30 00:00:00",OL,LAC,72,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16434,Christian,Jones,"6'3"",250,"1991-02-18 00:00:00",OLB,DET,52,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16436,Charles,"Leno Jr.","6'3"",307,"1991-10-09 04:00:00",OT,CHI,72,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16438,Pat,O'Donnell,"6'4"",212,"1991-02-22 05:00:00",P,CHI,16,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16441,Senorise,Perry,"6'0"",210,"1991-09-19 00:00:00",RB,TEN,20,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16451,Eric,Ebron,"6'4"",253,"1993-04-10 00:00:00",TE,PIT,85,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.91,"2022-07-02 01:55:00",-9.91,"2022-07-02 00:00:00",NULL
+16457,Nevin,Lawson,"5'9"",190,"1991-04-23 00:00:00",CB,LV,26,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16458,Cornelius,"Lucas III","6'8"",328,"1991-07-18 00:00:00",OT,WAS,78,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16463,Caraun,Reid,"6'2"",305,"1991-11-23 00:00:00",DT,JAX,92,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16467,Kyle,"Van Noy","6'3"",250,"1991-03-26 00:00:00",LB,MIA,53,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16470,Davante,Adams,"6'1"",215,"1992-12-24 00:00:00",WR,GB,17,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16470.png,3.92,"2022-07-02 01:55:00",3.92,"2022-07-02 00:00:00",NULL
+16481,Corey,Linsley,"6'3"",301,"1991-07-27 00:00:00",C,GB,63,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16486,Mike,Pennel,"6'4"",332,"1991-05-09 00:00:00",DT,KC,64,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16491,Richard,Rodgers,"6'4"",257,"1992-01-22 00:00:00",TE,PHI,85,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16492,Joe,Thomas,"6'1"",233,"1991-05-06 00:00:00",OLB,DAL,48,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16496,Anthony,Barr,"6'5"",255,"1992-03-18 00:00:00",OLB,MIN,55,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16497,Teddy,Bridgewater,"6'2"",215,"1992-11-10 00:00:00",QB,CAR,5,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16497.png,13.59,"2022-07-02 01:55:00",13.59,"2022-07-02 00:00:00",NULL
+16510,Jerick,McKinnon,"5'9"",205,"1992-05-03 00:00:00",RB,SF,28,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16510.png,9.7,"2022-07-02 01:55:00",9.7,"2022-07-02 00:00:00",NULL
+16515,Shamar,Stephen,"6'5"",309,"1991-02-25 00:00:00",DT,MIN,93,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16520,Ricardo,Allen,"5'9"",186,"1991-12-18 00:00:00",FS,ATL,37,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16524,Devonta,Freeman,"5'8"",206,"1992-03-15 00:00:00",RB,NYG,31,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16524.png,-0.06,"2022-07-02 01:55:00",-0.06,"2022-07-02 00:00:00",NULL
+16531,Jake,Matthews,"6'5"",309,"1992-02-11 00:00:00",OT,ATL,70,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16552,Tre,Boston,"6'1"",205,"1992-06-25 08:00:00",FS,CAR,33,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16558,Adarius,Taylor,"6'1"",215,"1990-09-21 00:00:00",OLB,CAR,57,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16560,Andrew,Norwell,"6'6"",325,"1991-10-25 00:00:00",G,JAX,68,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16563,Trai,Turner,"6'3"",315,"1993-06-14 00:00:00",G,LAC,70,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16568,Brandin,Cooks,"5'10"",183,"1993-09-25 00:00:00",WR,HOU,13,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16568.png,8.57,"2022-07-02 01:55:00",8.57,"2022-07-02 00:00:00",NULL
+16593,Cameron,Brate,"6'5"",245,"1991-07-03 08:00:00",TE,TB,84,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16597,Mike,Evans,"6'5"",231,"1993-08-21 00:00:00",WR,TB,13,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16597.png,8.2,"2022-07-02 01:55:00",8.2,"2022-07-02 00:00:00",NULL
+16618,Aaron,Donald,"6'1"",280,"1991-05-23 00:00:00",DT,LAR,99,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16620,E.J.,Gaines,"5'10"",190,"1992-02-23 00:00:00",CB,BUF,28,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16621,Garrett,Gilbert,"6'4"",230,"1991-07-01 00:00:00",QB,CLE,3,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16625,Lamarcus,Joyner,"5'8"",185,"1990-11-27 00:00:00",FS,LV,29,1,https://s3-us-west-2.amazonaws.com/static.fan,-8.64,"2022-07-02 01:55:00",-8.64,"2022-07-02 00:00:00",NULL
+16640,John,Brown,"5'11"",178,"1990-04-03 00:00:00",WR,BUF,15,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16640.png,-0.38,"2022-07-02 01:55:00",-0.38,"2022-07-02 00:00:00",NULL
+16642,Deone,Bucannon,"6'1"",211,"1992-08-30 00:00:00",ILB,ATL,36,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16647,Kareem,Martin,"6'6"",272,"1992-02-19 00:00:00",OLB,DET,NULL,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16656,Logan,Thomas,"6'6"",250,"1991-07-01 00:00:00",TE,WAS,82,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.98,"2022-07-02 01:55:00",-9.98,"2022-07-02 00:00:00",NULL
+16668,Carlos,Hyde,"6'0"",229,"1990-09-20 00:00:00",RB,SEA,30,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.83,"2022-07-02 01:55:00",-9.83,"2022-07-02 00:00:00",NULL
+16669,Dontae,Johnson,"6'2"",200,"1991-12-01 00:00:00",CB,SF,27,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16671,Marcus,Martin,"6'3"",320,"1993-11-29 00:00:00",G,DET,62,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16678,Jimmie,Ward,"5'11"",193,"1991-07-18 04:00:00",FS,SF,20,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16682,Brock,Coyle,"6'2"",245,"1990-10-12 00:00:00",ILB,NULL,50,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16684,Garry,Gilliam,"6'6"",303,"1990-11-26 00:00:00",OT,NULL,76,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16688,Cassius,Marsh,"6'4"",254,"1992-07-07 00:00:00",DE,JAX,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16690,Kevin,Pierre-Louis,"6'0"",230,"1991-10-07 00:00:00",ILB,WAS,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16694,Paul,Richardson,"6'0"",175,"1992-04-13 00:00:00",WR,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16724,Adrian,Phillips,"5'11"",210,"1992-03-28 00:00:00",SS,NE,21,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16728,Dontrelle,Inman,"6'3"",205,"1989-01-31 00:00:00",WR,WAS,80,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.87,"2022-07-02 01:55:00",-9.87,"2022-07-02 00:00:00",NULL
+16759,Jerome,Cunningham,"6'3"",250,"1991-05-25 04:00:00",TE,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16760,Charley,Hughlett,"6'4"",248,"1990-05-16 00:00:00",LS,CLE,47,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16762,Jameis,Winston,"6'4"",231,"1994-01-06 00:00:00",QB,NO,2,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16763,Marcus,Mariota,"6'4"",222,"1993-10-30 00:00:00",QB,LV,8,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16764,Dante,"Fowler Jr.","6'3"",255,"1994-08-03 00:00:00",OLB,ATL,56,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16765,Amari,Cooper,"6'1"",210,"1994-06-17 00:00:00",WR,DAL,19,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16765.png,7.64,"2022-07-02 01:55:00",7.64,"2022-07-02 00:00:00",NULL
+16766,Brandon,Scherff,"6'5"",315,"1991-12-26 00:00:00",G,WAS,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16767,Leonard,Williams,"6'5"",302,"1994-06-20 00:00:00",DE,NYG,99,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16768,Kevin,White,"6'3"",215,"1993-06-25 00:00:00",WR,SF,88,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16769,Vic,"Beasley Jr.","6'3"",246,"1992-07-08 00:00:00",OLB,TEN,44,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16770,Ereck,Flowers,"6'6"",329,"1994-04-25 00:00:00",G,MIA,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16771,Todd,"Gurley II","6'1"",224,"1994-08-03 00:00:00",RB,ATL,21,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16771.png,13.45,"2022-07-02 01:55:00",13.45,"2022-07-02 00:00:00",NULL
+16772,Trae,Waynes,"6'0"",190,"1992-07-25 00:00:00",CB,CIN,26,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16773,Danny,Shelton,"6'2"",345,"1993-08-20 00:00:00",DT,DET,71,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16774,Andrus,Peat,"6'7"",316,"1993-11-04 00:00:00",OL,NO,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16775,DeVante,Parker,"6'3"",216,"1993-01-20 00:00:00",WR,MIA,11,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16775.png,9.7,"2022-07-02 01:55:00",9.7,"2022-07-02 00:00:00",NULL
+16776,Melvin,"Gordon III","6'1"",215,"1993-04-13 00:00:00",RB,DEN,25,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16776.png,-0.2,"2022-07-02 01:55:00",-0.2,"2022-07-02 00:00:00",NULL
+16777,Kevin,Johnson,"6'0"",185,"1992-08-05 00:00:00",CB,CLE,28,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16778,Arik,Armstead,"6'7"",292,"1993-11-15 05:00:00",DE,SF,91,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16779,Marcus,Peters,"6'0"",195,"1993-01-09 00:00:00",CB,BAL,24,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16780,Cameron,Erving,"6'5"",313,"1992-08-23 00:00:00",OT,DAL,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16781,Nelson,Agholor,"6'0"",198,"1993-05-24 00:00:00",WR,LV,15,1,https://s3-us-west-2.amazonaws.com/static.fan,-8.48,"2022-07-02 01:55:00",-8.48,"2022-07-02 00:00:00",NULL
+16782,Cedric,Ogbuehi,"6'5"",308,"1992-04-25 00:00:00",OT,SEA,74,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16783,Bud,Dupree,"6'4"",269,"1993-02-12 00:00:00",OLB,PIT,48,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16784,Shane,Ray,"6'3"",249,"1993-05-18 00:00:00",OLB,NULL,91,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16785,D.J.,Humphries,"6'5"",307,"1993-12-28 00:00:00",OT,ARI,74,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16786,Shaq,Thompson,"6'0"",230,"1994-04-21 00:00:00",ILB,CAR,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16787,Breshad,Perriman,"6'2"",215,"1993-09-10 00:00:00",WR,NYJ,19,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.89,"2022-07-02 01:55:00",-9.89,"2022-07-02 00:00:00",NULL
+16788,Byron,Jones,"6'0"",205,"1992-09-26 00:00:00",CB,MIA,24,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16789,Laken,Tomlinson,"6'3"",312,"1992-02-09 05:00:00",G,SF,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16790,Phillip,"Dorsett II","5'10"",192,"1993-01-05 00:00:00",WR,SEA,11,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16791,Damarious,Randall,"5'11"",196,"1992-08-29 00:00:00",FS,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16792,Stephone,Anthony,"6'3"",245,"1992-07-28 08:00:00",OLB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16793,Malcom,Brown,"6'2"",320,"1993-05-15 00:00:00",DT,NO,90,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16794,Landon,Collins,"6'0"",218,"1994-01-10 00:00:00",SS,WAS,26,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16795,Donovan,Smith,"6'6"",338,"1993-06-23 00:00:00",OT,TB,76,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16796,Mario,"Edwards Jr.","6'3"",280,"1994-01-25 00:00:00",DE,CHI,97,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16797,T.J.,Yeldon,"6'1"",223,"1993-10-02 00:00:00",RB,BUF,22,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16798,Devin,Smith,"6'1"",199,"1992-03-03 00:00:00",WR,HOU,15,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16799,Preston,Smith,"6'5"",265,"1992-11-17 00:00:00",OLB,GB,91,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16800,Eddie,Goldman,"6'3"",318,"1994-01-06 05:00:00",NT,CHI,91,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16802,Devin,Funchess,"6'4"",225,"1994-05-21 00:00:00",WR,GB,11,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16803,Jalen,Collins,"6'1"",203,"1993-03-20 00:00:00",CB,NULL,32,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16804,Benardrick,McKinney,"6'4"",257,"1992-11-19 00:00:00",ILB,HOU,55,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16806,Eric,Kendricks,"6'0"",232,"1992-02-29 00:00:00",ILB,MIN,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16807,Jaquiski,Tartt,"6'1"",215,"1992-02-18 00:00:00",SS,SF,29,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16808,Eric,Rowe,"6'1"",205,"1992-10-03 00:00:00",SS,MIA,21,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16809,Denzel,Perryman,"5'11"",240,"1992-12-05 00:00:00",ILB,LAC,52,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16810,Mitch,Morse,"6'6"",305,"1992-04-21 00:00:00",C,BUF,60,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16811,Ronald,Darby,"5'11"",194,"1994-01-02 00:00:00",CB,WAS,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16812,Nate,Orchard,"6'3"",251,"1993-01-05 00:00:00",DE,WAS,48,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16813,Jordan,Phillips,"6'6"",341,"1992-09-21 00:00:00",NT,ARI,97,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16814,Jake,Fisher,"6'6"",306,"1993-08-16 00:00:00",OT,NULL,74,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16815,Ameer,Abdullah,"5'9"",203,"1993-06-13 04:00:00",RB,MIN,31,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16816,Maxx,Williams,"6'4"",252,"1994-04-12 00:00:00",TE,ARI,87,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16818,Rob,Havenstein,"6'8"",330,"1992-05-13 04:00:00",OT,LAR,79,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16819,Markus,Golden,"6'3"",260,"1991-03-13 00:00:00",OLB,NYG,44,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16820,Ty,Sambrailo,"6'5"",311,"1992-03-10 00:00:00",OT,TEN,70,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16821,Randy,Gregory,"6'5"",255,"1992-11-23 00:00:00",DE,DAL,94,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16822,Ali,Marpet,"6'4"",307,"1993-04-17 04:00:00",G,TB,74,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16823,Quinten,Rollins,"5'11"",195,"1994-01-04 00:00:00",CB,NULL,30,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16824,Frank,Clark,"6'3"",260,"1993-06-14 00:00:00",DE,KC,55,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16825,Jordan,Richards,"5'11"",210,"1993-01-21 00:00:00",SS,BAL,28,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16828,A.J.,Cann,"6'3"",315,"1991-10-23 00:00:00",G,JAX,60,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16829,Clive,Walford,"6'4"",252,"1991-10-01 00:00:00",TE,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16830,Tyler,Lockett,"5'10"",182,"1992-09-28 00:00:00",WR,SEA,16,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16830.png,12.23,"2022-07-02 01:55:00",12.23,"2022-07-02 00:00:00",NULL
+16831,Jaelen,Strong,"6'2"",217,"1992-10-23 00:00:00",WR,NULL,10,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16832,Hroniss,Grasu,"6'3"",301,"1991-08-12 00:00:00",C,SF,50,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16833,Jamon,Brown,"6'4"",340,"1993-03-15 00:00:00",G,PHI,66,1,https://s3-us-west-2.amazonaws.com/static.fan,-8.6,"2022-07-02 01:55:00",-8.6,"2022-07-02 00:00:00",NULL
+16834,Tevin,Coleman,"6'1"",210,"1993-04-16 00:00:00",RB,SF,26,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16836,Garrett,Grayson,"6'2"",213,"1991-05-29 00:00:00",QB,NULL,5,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16837,Chris,Conley,"6'3"",205,"1992-10-25 00:00:00",WR,JAX,18,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.94,"2022-07-02 01:55:00",-9.94,"2022-07-02 00:00:00",NULL
+16838,Duke,Johnson,"5'9"",210,"1993-09-23 00:00:00",RB,HOU,25,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16839,P.J.,Williams,"6'0"",196,"1993-06-01 00:00:00",CB,NO,26,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16840,Eli,Harold,"6'3"",247,"1994-01-20 00:00:00",OLB,NULL,59,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16841,Alex,Carter,"6'0"",196,"1994-10-19 00:00:00",CB,NULL,35,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16842,John,Miller,"6'3"",315,"1993-08-12 00:00:00",G,CAR,67,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16844,Craig,Mager,"5'11"",201,"1992-06-11 00:00:00",CB,NULL,49,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16845,Jordan,Hicks,"6'1"",236,"1992-06-27 00:00:00",ILB,ARI,58,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16846,Tyler,Kroft,"6'6"",252,"1992-10-15 00:00:00",TE,BUF,81,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16847,David,Johnson,"6'1"",224,"1991-12-16 05:00:00",RB,HOU,31,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16847.png,6.99,"2022-07-02 01:55:00",6.99,"2022-07-02 00:00:00",NULL
+16848,Sammie,Coates,"6'2"",212,"1993-03-31 00:00:00",WR,NULL,13,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16849,Danielle,Hunter,"6'5"",252,"1994-10-29 00:00:00",DE,MIN,99,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16850,Sean,Mannion,"6'6"",230,"1992-04-25 04:00:00",QB,MIN,4,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16851,Carl,"Davis Jr.","6'5"",320,"1992-03-02 00:00:00",DT,JAX,NULL,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16852,Chaz,Green,"6'5"",318,"1992-04-08 00:00:00",OT,IND,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16853,Jeff,Heuerman,"6'5"",255,"1992-11-24 00:00:00",TE,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16854,Henry,Anderson,"6'6"",301,"1991-08-03 00:00:00",DE,NYJ,96,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16855,Ty,Montgomery,"6'0"",216,"1993-01-22 00:00:00",RB,NO,88,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16858,Geneo,Grissom,"6'3"",262,"1992-06-04 00:00:00",DE,NULL,99,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16859,Steven,Nelson,"5'11"",194,"1993-01-22 00:00:00",CB,PIT,22,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16861,Angelo,Blackson,"6'4"",319,"1992-11-14 00:00:00",DE,ARI,96,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16862,Trey,Flowers,"6'2"",265,"1993-08-16 04:00:00",DE,DET,90,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16863,Daryl,Williams,"6'6"",330,"1992-08-31 00:00:00",OT,BUF,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16864,Bryce,Petty,"6'3"",230,"1991-05-31 00:00:00",QB,NULL,14,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16866,Jamison,Crowder,"5'9"",177,"1993-06-17 00:00:00",WR,NYJ,82,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16866.png,4.57,"2022-07-02 01:55:00",4.57,"2022-07-02 00:00:00",NULL
+16867,Jeremy,Langford,"6'0"",208,"1991-12-06 00:00:00",RB,NULL,43,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16868,Justin,Hardy,"5'10"",192,"1991-12-18 05:00:00",WR,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16869,Jalston,Fowler,"5'11"",254,"1995-01-18 00:00:00",RB,NULL,40,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16870,Clayton,Geathers,"6'2"",216,"1992-06-01 00:00:00",SS,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16875,Jamil,Douglas,"6'4"",309,"1992-02-28 00:00:00",C,TEN,75,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16876,Ibraheim,Campbell,"5'11"",210,"1992-05-13 00:00:00",SS,IND,33,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16878,Blake,Bell,"6'6"",252,"1991-08-07 00:00:00",TE,DAL,80,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16883,Za'Darius,Smith,"6'4"",272,"1992-09-08 04:00:00",OLB,GB,55,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16885,Kwon,Alexander,"6'1"",227,"1994-08-03 00:00:00",OLB,SF,56,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16887,Mike,Davis,"5'9"",220,"1993-02-19 00:00:00",RB,CAR,28,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16887.png,18.91,"2022-07-02 01:55:00",18.91,"2022-07-02 00:00:00",NULL
+16888,Damien,Wilson,"6'0"",245,"1993-05-28 00:00:00",LB,KC,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16889,Jon,Feliciano,"6'4"",325,"1992-02-10 00:00:00",G,BUF,76,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16892,Shaq,Mason,"6'2"",310,"1993-08-28 00:00:00",G,NE,69,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16894,Max,Garcia,"6'4"",309,"1991-11-09 00:00:00",G,ARI,73,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16895,Mark,Glowinski,"6'4"",310,"1992-05-03 00:00:00",G,IND,64,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16902,Adrian,Amos,"6'0"",214,"1993-04-29 04:00:00",FS,GB,31,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16903,MyCole,Pruitt,"6'2"",245,"1992-03-24 00:00:00",TE,TEN,85,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16905,Bobby,McCain,"5'11"",192,"1993-08-18 00:00:00",CB,MIA,28,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16906,Stefon,Diggs,"6'0"",191,"1993-11-29 00:00:00",WR,BUF,14,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16906.png,15.18,"2022-07-02 01:55:00",15.18,"2022-07-02 00:00:00",NULL
+16907,Brett,Hundley,"6'3"",226,"1993-06-15 00:00:00",QB,ARI,7,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16913,Kyle,Emanuel,"6'3"",251,"1991-08-16 00:00:00",OLB,LV,52,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16914,Tyeler,Davison,"6'2"",309,"1992-09-03 00:00:00",DT,ATL,96,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16917,C.J.,Uzomah,"6'6"",260,"1993-01-14 00:00:00",TE,CIN,87,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.8,"2022-07-02 01:55:00",-9.8,"2022-07-02 00:00:00",NULL
+16920,Jesse,James,"6'7"",250,"1994-06-04 04:00:00",TE,DET,83,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16925,Bradley,Pinion,"6'5"",240,"1994-06-01 08:00:00",P,TB,8,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16926,Joe,Cardona,"6'3"",245,"1992-04-16 00:00:00",LS,NE,49,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16928,Michael,Burton,"6'0"",240,"1992-02-01 00:00:00",FB,NO,32,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16929,David,Mayo,"6'2"",240,"1993-08-18 00:00:00",OLB,NYG,55,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16930,Tye,Smith,"6'0"",195,"1993-05-03 00:00:00",CB,TEN,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+16931,Nick,Boyle,"6'4"",270,"1993-02-17 00:00:00",TE,BAL,86,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.95,"2022-07-02 01:55:00",-9.95,"2022-07-02 00:00:00",NULL
+16933,James,O'Shaughnessy,"6'4"",245,"1992-01-14 00:00:00",TE,JAX,80,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.97,"2022-07-02 01:55:00",-9.97,"2022-07-02 00:00:00",NULL
+16954,Nick,O'Leary,"6'3"",252,"1992-08-31 00:00:00",TE,LV,84,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16960,Quandre,Diggs,"5'9"",198,"1993-01-22 00:00:00",FS,SEA,37,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16964,Darren,Waller,"6'6"",255,"1992-09-13 00:00:00",TE,LV,83,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/16964.png,1.57,"2022-07-02 01:55:00",1.57,"2022-07-02 00:00:00",NULL
+16969,Obum,Gwacham,"6'5"",246,"1991-03-20 00:00:00",DE,NULL,71,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16970,Christian,Ringo,"6'1"",290,"1992-03-10 00:00:00",DT,NULL,79,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16972,Anthony,Chickillo,"6'3"",255,"1992-12-10 00:00:00",OLB,DEN,58,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16976,Christian,Covington,"6'2"",305,"1993-10-16 00:00:00",DE,CIN,99,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16981,Austin,Reiter,"6'3"",300,"1991-11-27 00:00:00",C,KC,62,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16983,Bryce,Hager,"6'1"",237,"1992-05-04 00:00:00",ILB,NYJ,NULL,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16984,Jake,Rodgers,"6'6"",320,"1991-09-10 00:00:00",OT,DEN,69,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16985,Bobby,Hart,"6'5"",310,"1994-08-21 00:00:00",OT,CIN,68,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+16991,Edmond,Robinson,"6'3"",245,"1992-02-23 00:00:00",OLB,ATL,46,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+16995,Mark,Nzeocha,"6'3"",240,"1990-01-19 00:00:00",OLB,SF,53,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17003,Trent,Brown,"6'8"",380,"1993-04-13 00:00:00",OT,LV,77,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17005,Geoff,Swaim,"6'4"",245,"1993-09-16 00:00:00",TE,TEN,87,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17006,Darryl,Roberts,"6'0"",182,"1990-11-26 00:00:00",CB,DET,29,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17009,Trevor,Siemian,"6'3"",220,"1991-12-26 00:00:00",QB,TEN,4,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17014,Denzelle,Good,"6'5"",340,"1991-03-08 00:00:00",OL,LV,71,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17037,Justin,Coleman,"5'11"",190,"1993-03-27 00:00:00",CB,DET,27,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17048,Tyrell,Williams,"6'4"",205,"1992-02-12 00:00:00",WR,LV,16,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17053,Malcolm,Brown,"5'11"",222,"1993-05-15 00:00:00",RB,LAR,34,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17053.png,-0.330001,"2022-07-02 01:55:00",-0.330001,"2022-07-02 00:00:00",NULL
+17058,La'el,Collins,"6'4"",320,"1993-07-26 00:00:00",OT,DAL,71,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17059,Grady,Jarrett,"6'0"",305,"1993-04-28 08:00:00",DT,ATL,97,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17081,Tyrell,Adams,"6'2"",230,"1992-04-11 00:00:00",OLB,HOU,50,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17082,T.Y.,McGill,"6'1"",293,"1992-11-23 00:00:00",DT,PHI,76,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17085,Alex,Singleton,"6'2"",240,"1993-12-07 05:00:00",OLB,PHI,49,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17095,Joey,Mbu,"6'3"",313,"1993-03-28 00:00:00",DT,NULL,94,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17111,Deshazor,Everett,"6'0"",203,"1992-02-22 05:00:00",FS,WAS,22,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17113,Quinton,Dunbar,"6'2"",202,"1992-07-22 00:00:00",CB,SEA,22,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17118,Ty,Long,"6'2"",205,"1993-04-06 04:00:00",K,LAC,1,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17123,Nick,Dzubnar,"6'1"",240,"1991-08-15 00:00:00",OLB,TEN,49,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17136,Xavier,Williams,"6'2"",309,"1992-01-18 00:00:00",DT,NE,98,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17139,Josh,Lambo,"6'0"",215,"1990-11-19 00:00:00",K,JAX,4,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17141,Damiere,Byrd,"5'9"",180,"1993-01-27 00:00:00",WR,NE,10,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17145,Neville,Hewitt,"6'2"",234,"1993-04-06 00:00:00",ILB,NYJ,46,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17147,Dean,Marlowe,"6'1"",208,"1992-07-25 00:00:00",SS,BUF,31,1,https://s3-us-west-2.amazonaws.com/static.fan,1.86,"2022-07-02 01:55:00",1.86,"2022-07-02 00:00:00",NULL
+17156,Chad,Slade,"6'5"",315,"1992-05-04 00:00:00",G,NYG,62,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17157,Todd,Davis,"6'1"",230,"1992-05-17 00:00:00",ILB,MIN,40,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17172,Jonathan,Anderson,"6'1"",227,"1991-10-27 00:00:00",ILB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17179,Taylor,Heinicke,"6'0"",198,"1993-03-15 00:00:00",QB,NULL,6,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17182,Gabe,Holmes,"6'4"",260,"1991-03-29 00:00:00",TE,NULL,47,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17187,Anthony,Harris,"6'1"",202,"1991-10-09 04:00:00",FS,MIN,41,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17188,Brian,Peters,"6'3"",218,"1988-10-31 00:00:00",ILB,NULL,52,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17192,Brandon,King,"6'2"",220,"1993-06-08 00:00:00",LB,NE,36,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17197,Corey,Grant,"5'9"",201,"1991-12-19 00:00:00",RB,NULL,30,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17199,Akeem,Hunt,"5'8"",185,"1993-02-22 00:00:00",RB,NULL,35,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17215,Jason,Myers,"5'11"",190,"1991-05-12 00:00:00",K,SEA,5,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17217,Raheem,Mostert,"5'10"",205,"1992-04-09 00:00:00",RB,SF,31,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17217.png,9.65,"2022-07-02 01:55:00",9.65,"2022-07-02 00:00:00",NULL
+17218,DeAndre,Carter,"5'8"",190,"1993-04-10 00:00:00",WR,HOU,14,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.94,"2022-07-02 01:55:00",-9.94,"2022-07-02 00:00:00",NULL
+17219,Daniel,Brown,"6'5"",247,"1992-05-26 00:00:00",TE,NYJ,87,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17223,Eric,Tomlinson,"6'6"",263,"1992-04-22 00:00:00",TE,NYG,83,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17246,James,Vaughters,"6'1"",256,"1993-06-27 04:00:00",OLB,CHI,93,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17252,Jameill,Showers,"6'2"",223,"1991-09-06 00:00:00",FS,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17257,Lucky,Whitehead,"5'10"",163,"1992-06-02 00:00:00",WR,NULL,82,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17264,Efe,Obada,"6'6"",265,"1992-04-13 00:00:00",DE,CAR,94,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17269,DeAndrew,White,"6'0"",195,"1991-10-16 00:00:00",WR,BAL,18,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17286,Michael,Palardy,"5'11"",200,"1992-07-06 08:00:00",K,CAR,2,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17289,Jake,Kumerow,"6'4"",209,"1992-02-17 00:00:00",WR,BUF,87,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17290,Adam,Humphries,"5'11"",195,"1993-06-24 00:00:00",WR,TEN,10,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17294,Troy,Hill,"5'11"",183,"1991-08-29 04:00:00",CB,LAR,22,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17295,DeShawn,Williams,"6'0"",284,"1992-12-29 00:00:00",NT,DEN,90,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17307,Justin,March,"6'0"",222,"1993-07-05 00:00:00",ILB,DAL,53,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17327,Justin,Hamilton,"6'2"",315,"1993-07-27 00:00:00",DT,DAL,79,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17328,Bryce,Callahan,"5'9"",188,"1991-10-23 00:00:00",CB,DEN,29,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17337,C.J.,Goodwin,"6'3"",190,"1990-02-04 00:00:00",CB,DAL,29,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17360,Rod,Smith,"6'3"",236,"1992-01-10 00:00:00",RB,NYG,41,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17362,Josh,Watson,"6'2"",240,"1996-05-20 00:00:00",ILB,DEN,54,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17415,Matt,LaCosse,"6'6"",255,"1992-09-21 00:00:00",TE,NE,83,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17435,Brett,Jones,"6'2"",315,"1991-07-29 00:00:00",C,MIN,61,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17443,David,Andrews,"6'3"",300,"1992-07-10 00:00:00",C,NE,60,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17451,Michael,Liedtke,"6'3"",305,"1992-01-15 00:00:00",G,WAS,69,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17457,Nick,Easton,"6'3"",303,"1992-06-16 00:00:00",OL,NO,62,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17486,Quinton,Spain,"6'4"",330,"1991-08-07 00:00:00",G,BUF,67,1,https://s3-us-west-2.amazonaws.com/static.fan,1.86,"2022-07-02 01:55:00",1.86,"2022-07-02 00:00:00",NULL
+17488,Curtis,Riley,"6'0"",190,"1992-07-18 00:00:00",FS,ARI,35,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17490,Kendall,Lamm,"6'5"",310,"1992-06-05 00:00:00",OT,CLE,70,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17491,Greg,Mancz,"6'4"",302,"1992-04-23 00:00:00",G,HOU,65,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17511,Daniel,Munyer,"6'1"",305,"1992-03-04 00:00:00",C,TEN,52,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17512,Rakeem,Nunez-Roches,"6'2"",307,"1993-07-03 08:00:00",DE,TB,56,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17527,Rick,Lovato,"6'2"",249,"1992-09-09 04:00:00",LS,PHI,45,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17566,Jesse,Davis,"6'6"",325,"1991-09-15 00:00:00",OL,MIA,77,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17651,De'Vante,Bausby,"6'2"",190,"1993-01-15 00:00:00",CB,DEN,41,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17743,Chris,Reed,"6'4"",320,"1992-07-22 00:00:00",C,CAR,64,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17750,Ross,Travis,"6'6"",248,"1993-01-09 00:00:00",TE,NYJ,43,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17762,Chris,Manhertz,"6'6"",255,"1992-04-10 00:00:00",TE,CAR,82,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.31,"2022-07-02 01:55:00",-5.31,"2022-07-02 00:00:00",NULL
+17782,B.J.,Finney,"6'4"",318,"1991-10-26 00:00:00",C,SEA,67,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17899,Erik,Harris,"6'2"",220,"1990-04-02 00:00:00",SS,LV,25,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17914,Laquon,Treadwell,"6'2"",215,"1995-06-14 00:00:00",WR,ATL,80,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17915,Joey,Bosa,"6'5"",280,"1995-07-11 00:00:00",DE,LAC,97,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17916,William,"Fuller V","6'0"",184,"1994-04-16 00:00:00",WR,HOU,15,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17916.png,6.84,"2022-07-02 01:55:00",6.84,"2022-07-02 00:00:00",NULL
+17918,Laremy,Tunsil,"6'5"",313,"1994-08-02 00:00:00",OT,HOU,78,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17919,Jalen,Ramsey,"6'1"",208,"1994-10-24 04:00:00",CB,LAR,20,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17920,Carson,Wentz,"6'5"",237,"1992-12-30 00:00:00",QB,PHI,11,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17920.png,-16.58,"2022-07-02 01:55:00",-16.58,"2022-07-02 00:00:00",NULL
+17921,Ronnie,Stanley,"6'6"",315,"1994-03-18 00:00:00",OT,BAL,79,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17922,Jared,Goff,"6'4"",222,"1994-10-14 04:00:00",QB,LAR,16,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17922.png,18.76,"2022-07-02 01:55:00",18.76,"2022-07-02 00:00:00",NULL
+17923,Ezekiel,Elliott,"6'0"",228,"1995-07-22 04:00:00",RB,DAL,21,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17923.png,23.27,"2022-07-02 01:55:00",23.27,"2022-07-02 00:00:00",NULL
+17925,Myles,Jack,"6'1"",244,"1995-09-03 00:00:00",OLB,JAX,44,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17926,Jaylon,Smith,"6'2"",245,"1995-06-14 04:00:00",ILB,DAL,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17927,Christian,Hackenberg,"6'4"",223,"1995-02-14 00:00:00",QB,NULL,5,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17933,DeForest,Buckner,"6'7"",295,"1994-03-17 00:00:00",DT,IND,99,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17935,Leonard,Floyd,"6'5"",240,"1992-09-08 00:00:00",OLB,LAR,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17936,Jack,Conklin,"6'6"",308,"1994-08-17 00:00:00",OT,CLE,78,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17937,Reggie,Ragland,"6'2"",252,"1993-09-23 00:00:00",LB,DET,59,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17939,Josh,Doctson,"6'2"",205,"1992-12-03 00:00:00",WR,NYJ,18,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17940,Josh,Garnett,"6'5"",305,"1994-02-21 00:00:00",G,WAS,63,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17942,Keanu,Neal,"6'1"",216,"1995-07-26 12:00:00",SS,ATL,22,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17943,Shaq,Lawson,"6'3"",267,"1994-06-17 00:00:00",DE,MIA,90,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17944,Vernon,Butler,"6'4"",330,"1994-06-14 00:00:00",DT,BUF,94,1,https://s3-us-west-2.amazonaws.com/static.fan,1.86,"2022-07-02 01:55:00",1.86,"2022-07-02 00:00:00",NULL
+17945,William,"Jackson III","6'0"",196,"1992-10-27 00:00:00",CB,CIN,22,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17946,Taylor,Decker,"6'7"",318,"1993-08-23 00:00:00",OT,DET,68,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17947,Kenny,Clark,"6'3"",314,"1995-10-04 00:00:00",NT,GB,97,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17948,Ryan,Kelly,"6'4"",307,"1993-05-30 00:00:00",C,IND,78,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17949,Sheldon,Rankins,"6'2"",305,"1994-04-02 10:00:00",DT,NO,98,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17950,Eli,Apple,"6'1"",205,"1995-08-09 00:00:00",CB,CAR,41,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17952,Karl,Joseph,"5'10"",200,"1993-09-08 00:00:00",SS,CLE,42,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17953,Artie,Burns,"6'0"",197,"1995-05-01 00:00:00",CB,CHI,25,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17954,Germain,Ifedi,"6'5"",325,"1994-06-02 00:00:00",G,CHI,74,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17955,Vernon,"Hargreaves III","5'10"",204,"1995-06-03 00:00:00",CB,HOU,26,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17956,Noah,Spence,"6'2"",251,"1994-01-08 00:00:00",DE,NO,57,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17958,Emmanuel,Ogbah,"6'4"",275,"1993-11-06 00:00:00",DE,MIA,91,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17959,Derrick,Henry,"6'3"",247,"1994-01-04 00:00:00",RB,TEN,22,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17959.png,20.99,"2022-07-02 01:55:00",20.99,"2022-07-02 00:00:00",NULL
+17960,Michael,Thomas,"6'3"",212,"1993-03-03 00:00:00",WR,NO,13,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17960.png,-0.36,"2022-07-02 01:55:00",-0.36,"2022-07-02 00:00:00",NULL
+17961,Sterling,Shepard,"5'10"",201,"1993-02-10 00:00:00",WR,NYG,87,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17961.png,-0.91,"2022-07-02 01:55:00",-0.91,"2022-07-02 00:00:00",NULL
+17963,Austin,Hooper,"6'4"",254,"1994-10-29 04:00:00",TE,CLE,81,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.92,"2022-07-02 01:55:00",-9.92,"2022-07-02 00:00:00",NULL
+17965,C.J.,Prosise,"6'1"",225,"1994-05-20 00:00:00",RB,HOU,24,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17967,Joe,Schobert,"6'1"",245,"1993-11-06 00:00:00",ILB,JAX,47,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17968,Andrew,Billings,"6'1"",328,"1995-03-06 00:00:00",NT,CLE,99,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17970,Devontae,Booker,"5'11"",219,"1992-05-27 00:00:00",RB,LV,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-15.92,"2022-07-02 01:55:00",-15.92,"2022-07-02 00:00:00",NULL
+17975,Hunter,Henry,"6'5"",250,"1994-12-07 00:00:00",TE,LAC,86,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17975.png,11.8,"2022-07-02 01:55:00",11.8,"2022-07-02 00:00:00",NULL
+17976,Xavien,Howard,"6'1"",198,"1993-07-04 00:00:00",CB,MIA,25,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17977,Kamalei,Correa,"6'3"",241,"1994-04-27 00:00:00",OLB,TEN,40,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17978,Jihad,Ward,"6'5"",287,"1994-05-11 00:00:00",OLB,BAL,53,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17979,A'Shawn,Robinson,"6'4"",330,"1995-03-21 00:00:00",NT,LAR,94,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+17980,Jason,Spriggs,"6'6"",301,"1994-05-17 00:00:00",OT,CHI,78,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17981,Jarran,Reed,"6'3"",306,"1992-12-16 00:00:00",DT,SEA,90,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17982,Nick,Martin,"6'4"",295,"1993-04-29 00:00:00",C,HOU,66,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17983,Deion,Jones,"6'1"",227,"1994-11-04 10:00:00",ILB,ATL,45,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17985,Mackensie,Alexander,"5'10"",192,"1993-11-12 00:00:00",CB,CIN,21,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17986,Tyler,Boyd,"6'2"",203,"1994-11-15 00:00:00",WR,CIN,83,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/17986.png,8.58,"2022-07-02 01:55:00",8.58,"2022-07-02 00:00:00",NULL
+17987,Cody,Whitehair,"6'3"",309,"1992-07-11 04:00:00",C,CHI,65,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17989,Sean,Davis,"6'1"",202,"1993-10-23 00:00:00",FS,PIT,21,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17991,Vonn,Bell,"5'11"",205,"1994-12-12 00:00:00",SS,CIN,24,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17992,James,Bradberry,"6'1"",212,"1993-08-04 00:00:00",CB,NYG,24,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17993,Adam,Gotsis,"6'4"",287,"1992-09-23 00:00:00",DE,JAX,96,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+17994,Kevin,Byard,"5'11"",212,"1993-08-17 00:00:00",FS,TEN,31,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17995,Carl,Nassib,"6'7"",275,"1993-04-12 00:00:00",DE,LV,94,1,https://s3-us-west-2.amazonaws.com/static.fan,-16.18,"2022-07-02 01:55:00",-16.18,"2022-07-02 00:00:00",NULL
+17997,Maliek,Collins,"6'2"",310,"1995-04-08 00:00:00",DT,LV,97,1,https://s3-us-west-2.amazonaws.com/static.fan,-16.18,"2022-07-02 01:55:00",-16.18,"2022-07-02 00:00:00",NULL
+17998,Will,Redmond,"5'11"",186,"1993-12-28 05:00:00",FS,GB,25,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+17999,Yannick,Ngakoue,"6'2"",246,"1995-03-31 00:00:00",DE,MIN,91,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18000,Bronson,Kaufusi,"6'6"",275,"1991-07-06 00:00:00",TE,NYJ,45,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18001,Darian,Thompson,"6'2"",211,"1993-09-22 04:00:00",SS,DAL,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18002,Jonathan,Bullard,"6'3"",296,"1993-10-22 00:00:00",DE,ARI,90,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18003,Kenyan,Drake,"6'1"",211,"1994-01-26 05:00:00",RB,ARI,41,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18003.png,0.419999,"2022-07-02 01:55:00",0.419999,"2022-07-02 00:00:00",NULL
+18005,Shilique,Calhoun,"6'4"",260,"1992-03-20 00:00:00",LB,NE,90,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18006,Shon,Coleman,"6'5"",310,"1991-11-25 00:00:00",OT,SF,78,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18007,Daryl,Worley,"6'1"",215,"1995-02-22 00:00:00",CB,DAL,28,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18008,Joe,Thuney,"6'5"",308,"1992-11-18 00:00:00",G,NE,62,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18009,Isaac,Seumalo,"6'4"",303,"1993-10-29 00:00:00",G,PHI,73,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18011,Le'Raven,Clark,"6'5"",311,"1993-04-22 00:00:00",OT,IND,62,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18012,Jordan,Jenkins,"6'3"",259,"1994-07-01 00:00:00",OLB,NYJ,48,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18013,Kendall,Fuller,"5'11"",198,"1995-02-13 00:00:00",CB,WAS,29,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18015,Nick,Vigil,"6'2"",235,"1993-08-20 00:00:00",OLB,LAC,59,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18016,Kyler,Fackrell,"6'5"",245,"1991-11-25 00:00:00",OLB,NYG,51,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18017,Javon,Hargrave,"6'2"",305,"1993-02-07 00:00:00",DT,PHI,93,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18018,Jacoby,Brissett,"6'4"",238,"1992-12-11 00:00:00",QB,IND,7,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18019,Nick,Vannett,"6'6"",261,"1993-03-06 00:00:00",TE,DEN,88,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18020,Graham,Glasgow,"6'6"",310,"1992-08-19 00:00:00",C,DEN,61,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18023,Justin,Simmons,"6'2"",202,"1993-11-19 00:00:00",FS,DEN,31,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18026,Sheldon,Day,"6'1"",285,"1994-07-01 00:00:00",DT,IND,91,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18027,Tavon,Young,"5'9"",185,"1994-03-14 00:00:00",CB,BAL,25,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18029,Eric,Murray,"5'11"",199,"1994-01-07 00:00:00",FS,HOU,23,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18030,Chris,Moore,"6'1"",200,"1993-06-16 00:00:00",WR,BAL,10,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18031,B.J.,Goodson,"6'1"",242,"1993-05-29 00:00:00",ILB,CLE,93,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18032,Tyler,Higbee,"6'6"",255,"1993-01-01 05:00:00",TE,LAR,89,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18032.png,-0.39,"2022-07-02 01:55:00",-0.39,"2022-07-02 00:00:00",NULL
+18033,Miles,Killebrew,"6'2"",222,"1993-05-10 04:00:00",FS,DET,35,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18035,Nick,Kwiatkoski,"6'2"",242,"1993-05-26 00:00:00",ILB,LV,44,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18037,De'Vondre,Campbell,"6'4"",232,"1993-07-01 00:00:00",OLB,ARI,59,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18038,Hassan,Ridgeway,"6'3"",305,"1994-11-02 05:00:00",DT,PHI,98,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18039,Pharoh,Cooper,"5'11"",208,"1995-03-07 00:00:00",WR,CAR,14,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18040,Juston,Burris,"6'0"",212,"1993-08-04 00:00:00",SS,CAR,31,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18041,Tyler,Ervin,"5'10"",192,"1993-10-07 00:00:00",RB,GB,32,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.28,"2022-07-02 01:55:00",-5.28,"2022-07-02 00:00:00",NULL
+18042,David,Onyemata,"6'4"",300,"1992-11-13 00:00:00",NT,NO,93,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18043,Willie,Beavers,"6'5"",321,"1993-10-02 00:00:00",OT,ATL,71,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18044,Jerald,Hawkins,"6'6"",305,"1993-10-16 00:00:00",OT,PIT,65,1,https://s3-us-west-2.amazonaws.com/static.fan,-8.6,"2022-07-02 01:55:00",-8.6,"2022-07-02 00:00:00",NULL
+18045,Deon,Bush,"6'0"",200,"1993-08-14 04:00:00",FS,CHI,26,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18047,Demarcus,Robinson,"6'1"",203,"1994-09-21 00:00:00",WR,KC,11,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18049,Evan,Boehm,"6'3"",321,"1993-08-19 00:00:00",C,BUF,64,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18051,Alex,Lewis,"6'6"",305,"1992-04-21 00:00:00",G,NYJ,71,1,https://s3-us-west-2.amazonaws.com/static.fan,-16.18,"2022-07-02 01:55:00",-16.18,"2022-07-02 00:00:00",NULL
+18052,Blake,Martinez,"6'2"",237,"1994-01-09 00:00:00",ILB,NYG,54,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18054,Rashard,Robinson,"6'0"",175,"1995-07-23 00:00:00",CB,DAL,38,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18055,Dak,Prescott,"6'2"",238,"1993-07-29 04:00:00",QB,DAL,4,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18055.png,16.96,"2022-07-02 01:55:00",16.96,"2022-07-02 00:00:00",NULL
+18056,Dean,Lowry,"6'6"",296,"1994-06-09 04:00:00",DE,GB,94,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18058,Tajaé,Sharpe,"6'2"",194,"1994-12-23 00:00:00",WR,MIN,11,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.99,"2022-07-02 01:55:00",-9.99,"2022-07-02 00:00:00",NULL
+18060,Ronald,"Blair III","6'4"",270,"1993-01-21 00:00:00",DE,SF,98,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18061,DeAndre,Washington,"5'8"",210,"1993-02-22 00:00:00",RB,KC,30,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18062,Connor,McGovern,"6'4"",306,"1993-04-27 00:00:00",C,NYJ,60,1,https://s3-us-west-2.amazonaws.com/static.fan,-8.6,"2022-07-02 01:55:00",-8.6,"2022-07-02 00:00:00",NULL
+18064,Matthew,Judon,"6'3"",261,"1992-08-15 00:00:00",OLB,BAL,99,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18065,Quinton,Jefferson,"6'4"",291,"1993-03-31 00:00:00",DT,BUF,90,1,https://s3-us-west-2.amazonaws.com/static.fan,1.86,"2022-07-02 01:55:00",1.86,"2022-07-02 00:00:00",NULL
+18066,Caleb,Benenoch,"6'5"",305,"1994-08-08 00:00:00",G,NE,65,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18067,Jordan,Howard,"6'0"",224,"1994-11-02 00:00:00",RB,MIA,34,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18067.png,-0.34,"2022-07-02 01:55:00",-0.34,"2022-07-02 00:00:00",NULL
+18068,Joe,Dahl,"6'4"",310,"1993-04-09 00:00:00",G,DET,66,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18069,Matt,Ioannidis,"6'3"",310,"1994-01-11 00:00:00",DT,WAS,98,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18070,Wendell,Smallwood,"5'10"",208,"1994-01-20 00:00:00",RB,PIT,29,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18072,Joe,Haeg,"6'6"",298,"1993-03-11 00:00:00",OT,TB,73,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18074,LeShaun,Sims,"6'0"",203,"1993-09-18 00:00:00",CB,CIN,38,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18075,Brandon,Shell,"6'5"",324,"1992-02-06 00:00:00",OT,SEA,72,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18081,Halapoulivaati,Vaitai,"6'6"",320,"1993-06-16 00:00:00",OT,DET,72,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18082,Tyreek,Hill,"5'10"",185,"1994-03-01 00:00:00",WR,KC,10,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18082.png,-0.92,"2022-07-02 01:55:00",-0.92,"2022-07-02 00:00:00",NULL
+18083,D.J.,Reader,"6'3"",347,"1994-07-01 00:00:00",NT,CIN,98,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18084,Marqui,Christian,"5'11"",207,"1994-10-27 00:00:00",SS,NYJ,43,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18087,Cole,Toner,"6'5"",310,"1994-03-13 00:00:00",OL,LAC,64,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18089,Rashard,Higgins,"6'1"",198,"1994-10-07 00:00:00",WR,CLE,82,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.31,"2022-07-02 01:55:00",-5.31,"2022-07-02 00:00:00",NULL
+18093,Andy,Janovich,"6'1"",238,"1993-05-23 00:00:00",FB,CLE,31,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.98,"2022-07-02 01:55:00",-9.98,"2022-07-02 00:00:00",NULL
+18094,Temarrick,Hemingway,"6'5"",245,"1993-07-30 00:00:00",TE,WAS,88,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18095,D.J.,White,"5'11"",193,"1993-09-09 00:00:00",CB,ATL,39,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18100,Devante,Bond,"6'1"",236,"1993-07-03 00:00:00",OLB,CHI,44,1,https://s3-us-west-2.amazonaws.com/static.fan,-8.6,"2022-07-02 01:55:00",-8.6,"2022-07-02 00:00:00",NULL
+18101,Jerell,Adams,"6'5"",247,"1992-12-31 00:00:00",TE,BAL,47,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18102,DeAndre,Houston-Carson,"6'0"",202,"1993-04-13 00:00:00",S,CHI,36,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18103,Jakeem,"Grant Sr.","5'7"",171,"1992-10-30 00:00:00",WR,MIA,19,1,https://s3-us-west-2.amazonaws.com/static.fan,-9.88,"2022-07-02 01:55:00",-9.88,"2022-07-02 00:00:00",NULL
+18104,Nate,Sudfeld,"6'6"",227,"1993-10-07 00:00:00",QB,PHI,7,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18105,David,Morgan,"6'4"",262,"1993-05-19 00:00:00",TE,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18106,Anthony,Brown,"5'11"",196,"1993-12-15 00:00:00",CB,DAL,30,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18108,Jake,Rudock,"6'3"",212,"1993-01-21 00:00:00",QB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18112,Wes,Schweitzer,"6'4"",300,"1993-09-11 00:00:00",G,WAS,71,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18114,Danny,Vitale,"6'0"",239,"1993-10-26 00:00:00",FB,NE,45,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18115,Derek,Watt,"6'2"",234,"1992-11-07 00:00:00",FB,PIT,44,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18116,Cody,Core,"6'3"",205,"1994-04-17 00:00:00",WR,NYG,17,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18118,Brandon,Allen,"6'2"",209,"1992-09-05 00:00:00",QB,CIN,8,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18119,Anthony,Zettel,"6'4"",275,"1992-08-09 00:00:00",DE,NO,69,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18121,Jordan,Lucas,"6'1"",190,"1993-08-02 00:00:00",SS,CHI,21,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18123,Jeff,Driskel,"6'4"",235,"1993-04-23 00:00:00",QB,DEN,9,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18123.png,-0.05,"2022-07-02 01:55:00",-0.05,"2022-07-02 00:00:00",NULL
+18124,Kamu,Grugier-Hill,"6'2"",230,"1994-05-16 00:00:00",OLB,MIA,51,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18125,Maurice,Canady,"6'1"",193,"1994-05-26 00:00:00",CB,DAL,28,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18128,Kavon,Frazier,"6'0"",220,"1994-08-11 04:00:00",SS,MIA,35,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18130,Elandon,Roberts,"6'0"",238,"1994-04-22 00:00:00",LB,MIA,44,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18131,Joey,Hunt,"6'2"",299,"1994-02-22 00:00:00",C,IND,68,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18132,Darius,Jackson,"6'0"",230,"1993-12-01 00:00:00",RB,IND,43,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18134,Will,Parks,"6'1"",194,"1994-07-29 00:00:00",SS,PHI,28,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18137,Ted,Karras,"6'4"",305,"1993-03-15 00:00:00",C,MIA,67,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18143,Stephen,Weatherly,"6'5"",265,"1994-03-19 00:00:00",DE,CAR,91,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18144,Riley,Dixon,"6'4"",221,"1993-08-24 00:00:00",P,NYG,9,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18149,Jalen,Mills,"6'0"",191,"1994-04-06 00:00:00",SS,PHI,21,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18151,Lachlan,Edwards,"6'4"",209,"1992-04-27 00:00:00",P,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18152,Dwayne,Washington,"6'1"",223,"1994-04-24 00:00:00",RB,NO,24,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18153,Daniel,Lasco,"6'0"",209,"1992-10-09 00:00:00",RB,NULL,36,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18155,Trevor,Bates,"6'1"",246,"1993-08-28 00:00:00",ILB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18157,Charone,Peake,"6'2"",209,"1992-10-16 00:00:00",WR,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18160,Jayron,Kearse,"6'4"",215,"1994-02-11 00:00:00",FS,DET,32,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18161,Clayton,Fejedelem,"6'0"",205,"1993-06-02 00:00:00",SS,MIA,42,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18162,Tyler,Matakevich,"6'1"",235,"1992-12-22 00:00:00",ILB,BUF,44,1,https://s3-us-west-2.amazonaws.com/static.fan,1.86,"2022-07-02 01:55:00",1.86,"2022-07-02 00:00:00",NULL
+18164,Austin,Blythe,"6'3"",298,"1992-06-16 04:00:00",G,LAR,66,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18166,Scooby,Wright,"6'0"",239,"1994-08-28 00:00:00",ILB,NULL,96,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18167,Joe,Walker,"6'2"",236,"1992-12-11 00:00:00",ILB,SF,59,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18177,Jonathan,Jones,"5'10"",190,"1993-09-20 00:00:00",CB,NE,31,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18178,Cre'Von,LeBlanc,"5'10"",190,"1994-07-25 00:00:00",CB,PHI,34,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18187,Robbie,Anderson,"6'3"",190,"1993-05-09 00:00:00",WR,CAR,11,1,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nfl/low-res/18187.png,4.92,"2022-07-02 01:55:00",4.92,"2022-07-02 00:00:00",NULL
+18190,Ken,Crawley,"6'1"",180,"1993-02-08 00:00:00",CB,NO,25,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18196,Joseph,Cheek,"6'6"",317,"1992-12-02 00:00:00",G,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18197,Alex,Erickson,"6'0"",195,"1992-11-06 00:00:00",WR,CIN,12,1,https://s3-us-west-2.amazonaws.com/static.fan,-10,"2022-07-02 01:55:00",-10,"2022-07-02 00:00:00",NULL
+18200,Jeremy,Cash,"6'0"",212,"1992-12-09 00:00:00",OLB,NULL,52,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18202,Trevor,Williams,"5'11"",191,"1993-09-15 00:00:00",CB,PHI,41,1,https://s3-us-west-2.amazonaws.com/static.fan,-8.6,"2022-07-02 01:55:00",-8.6,"2022-07-02 00:00:00",NULL
+18203,Jake,Brendel,"6'4"",299,"1992-09-10 00:00:00",C,SF,64,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18204,Josh,Woodrum,"6'3"",228,"1992-11-07 05:00:00",QB,NULL,NULL,0,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
+18205,Matt,Skura,"6'3"",313,"1993-02-17 00:00:00",OL,BAL,68,1,https://s3-us-west-2.amazonaws.com/static.fan,-5.34,"2022-07-02 01:55:00",-5.34,"2022-07-02 00:00:00",NULL
+18209,Marcus,Johnson,"6'1"",207,"1994-08-05 00:00:00",WR,IND,83,1,https://s3-us-west-2.amazonaws.com/static.fan,0,NULL,0,NULL,NULL
